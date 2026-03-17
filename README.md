@@ -10,12 +10,46 @@ The study evaluates both models on **seen** and **unseen** classes, benchmarks i
 
 ## Key findings
 
-| Model | mAP 50-95 (seen) | mAP 50-95 (unseen) | Latency (s/img) |
-|---|---|---|---|
-| YOLOv8n | — | — | — |
-| OWL-ViT | — | — | — |
+### Detection performance
 
-> Fill in after running the notebook on your dataset.
+| Model | mAP@[.5:.95] (seen) | AP@50 (seen) | mAP@[.5:.95] (unseen) | AP@50 (unseen) | Latency (s/img) |
+|---|---|---|---|---|---|
+| YOLOv8n | 0.549 | 0.645 | 0.000 | 0.000 | 0.78 |
+| OWL-ViT | 0.600 | 0.718 | 0.331 | 0.522 | 3.56 |
+
+Dataset: 246 images, 453 annotations, 10 categories (5 seen / 5 unseen).
+
+**Key takeaways:**
+- OWL-ViT slightly outperforms YOLOv8 on seen classes (mAP +0.05) while being ~4.6× slower
+- YOLOv8 scores 0 on unseen classes — expected, as it cannot generalize beyond its training categories
+- OWL-ViT achieves mAP 0.33 on unseen classes via zero-shot text prompts, demonstrating strong generalization
+
+### Per-class breakdown (seen classes)
+
+| Class | OWL-ViT AP@50 | YOLOv8 AP@50 |
+|---|---|---|
+| Pizza | 0.971 | 0.858 |
+| Dog | 0.957 | 0.875 |
+| Bus | 0.856 | 0.840 |
+| Bicycle | 0.661 | 0.513 |
+| Chair | 0.145 | 0.140 |
+
+### Prompt engineering — Helmet (unseen class)
+
+| Prompt | mAP@[.5:.95] | AP@50 |
+|---|---|---|
+| "a photo of a helmet" | 0.133 | 0.194 |
+| "a black helmet" | 0.095 | 0.126 |
+| "a motorcycle helmet" | 0.030 | 0.064 |
+| "a construction helmet" | 0.014 | 0.020 |
+| "a person wearing a helmet" | 0.002 | 0.007 |
+| "a safety helmet" | 0.000 | 0.000 |
+
+Generic prompts outperform specific ones — the model was likely trained on generic image-text pairs, making overly specific prompts harder to match.
+
+### Prompt specificity experiment — Red bus
+
+Demonstrates that adding a color attribute to the prompt ("a photo of a red bus") enables OWL-ViT to detect an object it missed with a generic prompt — score 0.50 vs no detection.
 
 ---
 
