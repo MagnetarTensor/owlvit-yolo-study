@@ -1,0 +1,6938 @@
+{
+  "info": {
+    "description": "INF6804 H2026 TP2",
+    "year": 2026
+  },
+  "classes": {
+    "seen": [
+      "Bicycle",
+      "Dog",
+      "Pizza",
+      "Bus",
+      "Chair"
+    ],
+    "unseen": [
+      "Guitar",
+      "Microphone",
+      "Sunglasses",
+      "Helmet",
+      "Drum"
+    ]
+  },
+  "images": [
+    {
+      "id": "0069e8be6d4f66f0",
+      "file_name": "0069e8be6d4f66f0.jpg",
+      "width": 685,
+      "height": 1024
+    },
+    {
+      "id": "013b99371484d3d5",
+      "file_name": "013b99371484d3d5.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "02717d30304f4849",
+      "file_name": "02717d30304f4849.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "0374141ebf11632e",
+      "file_name": "0374141ebf11632e.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "049b2fae5ca8aa8b",
+      "file_name": "049b2fae5ca8aa8b.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "08e585eb51cb8be0",
+      "file_name": "08e585eb51cb8be0.jpg",
+      "width": 1024,
+      "height": 640
+    },
+    {
+      "id": "0b83e754be780735",
+      "file_name": "0b83e754be780735.jpg",
+      "width": 1024,
+      "height": 678
+    },
+    {
+      "id": "0d21f579a27f72a9",
+      "file_name": "0d21f579a27f72a9.jpg",
+      "width": 1024,
+      "height": 686
+    },
+    {
+      "id": "0e2b08b1b733add7",
+      "file_name": "0e2b08b1b733add7.jpg",
+      "width": 1024,
+      "height": 884
+    },
+    {
+      "id": "0f48108b3973c7ec",
+      "file_name": "0f48108b3973c7ec.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "id": "1047925fd28f2b9f",
+      "file_name": "1047925fd28f2b9f.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "11fc59bf4449b19d",
+      "file_name": "11fc59bf4449b19d.jpg",
+      "width": 1024,
+      "height": 715
+    },
+    {
+      "id": "122259cbb3d91b12",
+      "file_name": "122259cbb3d91b12.jpg",
+      "width": 668,
+      "height": 1024
+    },
+    {
+      "id": "186d668b88451394",
+      "file_name": "186d668b88451394.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "1888aa8f2a6fc780",
+      "file_name": "1888aa8f2a6fc780.jpg",
+      "width": 770,
+      "height": 1024
+    },
+    {
+      "id": "1968c9cbabd1ebbd",
+      "file_name": "1968c9cbabd1ebbd.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "1bd0c9a68b41d02c",
+      "file_name": "1bd0c9a68b41d02c.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "1cd85f7cc478d905",
+      "file_name": "1cd85f7cc478d905.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "1dad771aeed1ded2",
+      "file_name": "1dad771aeed1ded2.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "1e413b62d1a7aab3",
+      "file_name": "1e413b62d1a7aab3.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "1f05d514448663fc",
+      "file_name": "1f05d514448663fc.jpg",
+      "width": 685,
+      "height": 1024
+    },
+    {
+      "id": "1f6c156f2cb2d4f2",
+      "file_name": "1f6c156f2cb2d4f2.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "1f8c3d56166453c3",
+      "file_name": "1f8c3d56166453c3.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "25d1efe63ba4427e",
+      "file_name": "25d1efe63ba4427e.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "282e0c8f8ef8ba8d",
+      "file_name": "282e0c8f8ef8ba8d.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "286d3c000d8d3591",
+      "file_name": "286d3c000d8d3591.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "2accb1bb8d4bf0bf",
+      "file_name": "2accb1bb8d4bf0bf.jpg",
+      "width": 1024,
+      "height": 849
+    },
+    {
+      "id": "2d123c968fecdd92",
+      "file_name": "2d123c968fecdd92.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "2dab4bf641b91d2a",
+      "file_name": "2dab4bf641b91d2a.jpg",
+      "width": 680,
+      "height": 1024
+    },
+    {
+      "id": "309d8afcf4ab8792",
+      "file_name": "309d8afcf4ab8792.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "31c5a21d1d2fb132",
+      "file_name": "31c5a21d1d2fb132.jpg",
+      "width": 753,
+      "height": 1024
+    },
+    {
+      "id": "328e732605a35403",
+      "file_name": "328e732605a35403.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "350de344c906af4a",
+      "file_name": "350de344c906af4a.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "364e66425f4189e7",
+      "file_name": "364e66425f4189e7.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "37903a5abd540028",
+      "file_name": "37903a5abd540028.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "38dde2b71edf6611",
+      "file_name": "38dde2b71edf6611.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "391d6cd82d708762",
+      "file_name": "391d6cd82d708762.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "3a92d18d77511201",
+      "file_name": "3a92d18d77511201.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "3af9875f8db050b8",
+      "file_name": "3af9875f8db050b8.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "3b0796f2f32f5187",
+      "file_name": "3b0796f2f32f5187.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "3e40cab2517ace8d",
+      "file_name": "3e40cab2517ace8d.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "3e86cc844d40fb0c",
+      "file_name": "3e86cc844d40fb0c.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "3ec2b4d262e2ac4c",
+      "file_name": "3ec2b4d262e2ac4c.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "3f093b251144dbe9",
+      "file_name": "3f093b251144dbe9.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "3f10138eb086f2e9",
+      "file_name": "3f10138eb086f2e9.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "3f7d5b7ffa990565",
+      "file_name": "3f7d5b7ffa990565.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "406ad630bcc21406",
+      "file_name": "406ad630bcc21406.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "41d377c422fd455d",
+      "file_name": "41d377c422fd455d.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "43d0a572b0768443",
+      "file_name": "43d0a572b0768443.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "46862805a3f41c39",
+      "file_name": "46862805a3f41c39.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "49800eddc141cf27",
+      "file_name": "49800eddc141cf27.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "4c8bb70a5e3dc4cb",
+      "file_name": "4c8bb70a5e3dc4cb.jpg",
+      "width": 1024,
+      "height": 751
+    },
+    {
+      "id": "4cbea5cbf1197c64",
+      "file_name": "4cbea5cbf1197c64.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "4fd2dd9573ca1827",
+      "file_name": "4fd2dd9573ca1827.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "4fdbd2dd57d22774",
+      "file_name": "4fdbd2dd57d22774.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "53082ecce31b23bc",
+      "file_name": "53082ecce31b23bc.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "54d149d732cd530b",
+      "file_name": "54d149d732cd530b.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "56f70c7797ff9dce",
+      "file_name": "56f70c7797ff9dce.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "572f627b42ccd616",
+      "file_name": "572f627b42ccd616.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "5fd30a5e3b4e35c4",
+      "file_name": "5fd30a5e3b4e35c4.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "61aaf2fb24897513",
+      "file_name": "61aaf2fb24897513.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "645631471c488704",
+      "file_name": "645631471c488704.jpg",
+      "width": 759,
+      "height": 1024
+    },
+    {
+      "id": "66889c8307d49bc6",
+      "file_name": "66889c8307d49bc6.jpg",
+      "width": 1024,
+      "height": 634
+    },
+    {
+      "id": "675bd7ba63cb7831",
+      "file_name": "675bd7ba63cb7831.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "6a316f2b341bdc0b",
+      "file_name": "6a316f2b341bdc0b.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "6aa4ff893e357650",
+      "file_name": "6aa4ff893e357650.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "6ce699ba3a65e521",
+      "file_name": "6ce699ba3a65e521.jpg",
+      "width": 1024,
+      "height": 552
+    },
+    {
+      "id": "6dabc38dbc66624d",
+      "file_name": "6dabc38dbc66624d.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "6e20219772b664af",
+      "file_name": "6e20219772b664af.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "7042f8d4ce6778db",
+      "file_name": "7042f8d4ce6778db.jpg",
+      "width": 767,
+      "height": 1024
+    },
+    {
+      "id": "71df582bfb39b541",
+      "file_name": "71df582bfb39b541.jpg",
+      "width": 1024,
+      "height": 681
+    },
+    {
+      "id": "71df72bf0f7b67ca",
+      "file_name": "71df72bf0f7b67ca.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "72bb988bc40f976d",
+      "file_name": "72bb988bc40f976d.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "76a57c569cda5528",
+      "file_name": "76a57c569cda5528.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "76f8fdd48b7ff734",
+      "file_name": "76f8fdd48b7ff734.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "776745390c4835ae",
+      "file_name": "776745390c4835ae.jpg",
+      "width": 1024,
+      "height": 765
+    },
+    {
+      "id": "79a8e9cae9182c30",
+      "file_name": "79a8e9cae9182c30.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "7a87225ae9d63bcd",
+      "file_name": "7a87225ae9d63bcd.jpg",
+      "width": 1024,
+      "height": 764
+    },
+    {
+      "id": "7b60542c86005149",
+      "file_name": "7b60542c86005149.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "7c1d922420d9ae86",
+      "file_name": "7c1d922420d9ae86.jpg",
+      "width": 1024,
+      "height": 685
+    },
+    {
+      "id": "7c2d8940e91990d4",
+      "file_name": "7c2d8940e91990d4.jpg",
+      "width": 1024,
+      "height": 582
+    },
+    {
+      "id": "7c888d0d5fd5b56e",
+      "file_name": "7c888d0d5fd5b56e.jpg",
+      "width": 685,
+      "height": 1024
+    },
+    {
+      "id": "811bef6233f25e4b",
+      "file_name": "811bef6233f25e4b.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "816e5c3bfc822700",
+      "file_name": "816e5c3bfc822700.jpg",
+      "width": 1024,
+      "height": 724
+    },
+    {
+      "id": "83f1383e6b3dd1b3",
+      "file_name": "83f1383e6b3dd1b3.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "86cf240adb1303b2",
+      "file_name": "86cf240adb1303b2.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "86f11d6200964c9f",
+      "file_name": "86f11d6200964c9f.jpg",
+      "width": 658,
+      "height": 1024
+    },
+    {
+      "id": "86fa28d162ee13dc",
+      "file_name": "86fa28d162ee13dc.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "8851d9faa6af2db6",
+      "file_name": "8851d9faa6af2db6.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "8b6909787418bff8",
+      "file_name": "8b6909787418bff8.jpg",
+      "width": 885,
+      "height": 1024
+    },
+    {
+      "id": "8c4da5a7c7a917dd",
+      "file_name": "8c4da5a7c7a917dd.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "8d33fc967f2014e4",
+      "file_name": "8d33fc967f2014e4.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "906b6983d21819fe",
+      "file_name": "906b6983d21819fe.jpg",
+      "width": 1024,
+      "height": 713
+    },
+    {
+      "id": "9096234981cd480a",
+      "file_name": "9096234981cd480a.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "92253167e8e013d3",
+      "file_name": "92253167e8e013d3.jpg",
+      "width": 1024,
+      "height": 772
+    },
+    {
+      "id": "947a61e750f23ce9",
+      "file_name": "947a61e750f23ce9.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "9745b225d8be2f1b",
+      "file_name": "9745b225d8be2f1b.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "98305aefefa0ecf6",
+      "file_name": "98305aefefa0ecf6.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "985ff5921c34ad03",
+      "file_name": "985ff5921c34ad03.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "id": "987744ee1fddcc0f",
+      "file_name": "987744ee1fddcc0f.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "9b5c1eaf3136be52",
+      "file_name": "9b5c1eaf3136be52.jpg",
+      "width": 1024,
+      "height": 747
+    },
+    {
+      "id": "9c900db293e37506",
+      "file_name": "9c900db293e37506.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "9dc7d3dcc87474a7",
+      "file_name": "9dc7d3dcc87474a7.jpg",
+      "width": 1024,
+      "height": 875
+    },
+    {
+      "id": "9f66947fe3705a67",
+      "file_name": "9f66947fe3705a67.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "9fa34f43b920f689",
+      "file_name": "9fa34f43b920f689.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "a101b4b3a1635c66",
+      "file_name": "a101b4b3a1635c66.jpg",
+      "width": 1024,
+      "height": 791
+    },
+    {
+      "id": "a144cb066f688185",
+      "file_name": "a144cb066f688185.jpg",
+      "width": 1024,
+      "height": 690
+    },
+    {
+      "id": "a17259b464419495",
+      "file_name": "a17259b464419495.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "a26b2c00a79d2c0d",
+      "file_name": "a26b2c00a79d2c0d.jpg",
+      "width": 1024,
+      "height": 587
+    },
+    {
+      "id": "a3898d7be48dded7",
+      "file_name": "a3898d7be48dded7.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "a482fc6ab954fd55",
+      "file_name": "a482fc6ab954fd55.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "aa635959507530eb",
+      "file_name": "aa635959507530eb.jpg",
+      "width": 682,
+      "height": 1024
+    },
+    {
+      "id": "aa81ff2c072c62f7",
+      "file_name": "aa81ff2c072c62f7.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "ada5030d58fe7835",
+      "file_name": "ada5030d58fe7835.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "id": "af1c23fb3dd401bd",
+      "file_name": "af1c23fb3dd401bd.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "b038d9368f753533",
+      "file_name": "b038d9368f753533.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "b7904a8837396983",
+      "file_name": "b7904a8837396983.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "b98b1d615d1bd31f",
+      "file_name": "b98b1d615d1bd31f.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "ba9cb8884bf69279",
+      "file_name": "ba9cb8884bf69279.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "id": "baf2df8954eece9b",
+      "file_name": "baf2df8954eece9b.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "bc37ccba2857d1e7",
+      "file_name": "bc37ccba2857d1e7.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "be9c298bcc3923b7",
+      "file_name": "be9c298bcc3923b7.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "bfc0b7dbe0c8ffa1",
+      "file_name": "bfc0b7dbe0c8ffa1.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "c05ca0f3781c37dc",
+      "file_name": "c05ca0f3781c37dc.jpg",
+      "width": 1024,
+      "height": 588
+    },
+    {
+      "id": "c073c3cf1ff452ec",
+      "file_name": "c073c3cf1ff452ec.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "c1c05b097eebe3a4",
+      "file_name": "c1c05b097eebe3a4.jpg",
+      "width": 1024,
+      "height": 726
+    },
+    {
+      "id": "c21c2bd8a499ed95",
+      "file_name": "c21c2bd8a499ed95.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "c21c8c2eae262421",
+      "file_name": "c21c8c2eae262421.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "c2ed6ddf764b96d4",
+      "file_name": "c2ed6ddf764b96d4.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "c431603fbfc7540d",
+      "file_name": "c431603fbfc7540d.jpg",
+      "width": 1024,
+      "height": 852
+    },
+    {
+      "id": "c4654534c99ba80a",
+      "file_name": "c4654534c99ba80a.jpg",
+      "width": 1024,
+      "height": 679
+    },
+    {
+      "id": "c46ad86ccb7ed0c9",
+      "file_name": "c46ad86ccb7ed0c9.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "c4d62e55691ed1e4",
+      "file_name": "c4d62e55691ed1e4.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "id": "c500dd7e90136de2",
+      "file_name": "c500dd7e90136de2.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "c620d8d3c2e67be9",
+      "file_name": "c620d8d3c2e67be9.jpg",
+      "width": 1024,
+      "height": 658
+    },
+    {
+      "id": "c658026260b5ba62",
+      "file_name": "c658026260b5ba62.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "c8616447d48a8ee6",
+      "file_name": "c8616447d48a8ee6.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "cc94d1513871c552",
+      "file_name": "cc94d1513871c552.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "cd15d27d6e32fee7",
+      "file_name": "cd15d27d6e32fee7.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "cf1e3b6faf8b00cf",
+      "file_name": "cf1e3b6faf8b00cf.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "d0febb103b8e2d5c",
+      "file_name": "d0febb103b8e2d5c.jpg",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "id": "d3477da8d26d5171",
+      "file_name": "d3477da8d26d5171.jpg",
+      "width": 1024,
+      "height": 947
+    },
+    {
+      "id": "d4f6d82dd83b75dc",
+      "file_name": "d4f6d82dd83b75dc.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "d58367f87f3617ea",
+      "file_name": "d58367f87f3617ea.jpg",
+      "width": 1024,
+      "height": 503
+    },
+    {
+      "id": "d6f555694b216c17",
+      "file_name": "d6f555694b216c17.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "d7727b7fe703cfe9",
+      "file_name": "d7727b7fe703cfe9.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "da7113473d488888",
+      "file_name": "da7113473d488888.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "db4f31525d9ad4ba",
+      "file_name": "db4f31525d9ad4ba.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "dfbb92ef729ab632",
+      "file_name": "dfbb92ef729ab632.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "e06b4722adbe5748",
+      "file_name": "e06b4722adbe5748.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "e0d2f23cbc0b903d",
+      "file_name": "e0d2f23cbc0b903d.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "e15d7945e81ab8fd",
+      "file_name": "e15d7945e81ab8fd.jpg",
+      "width": 1024,
+      "height": 681
+    },
+    {
+      "id": "e1c19875643b041f",
+      "file_name": "e1c19875643b041f.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "e28ae49ea4fbca47",
+      "file_name": "e28ae49ea4fbca47.jpg",
+      "width": 604,
+      "height": 1024
+    },
+    {
+      "id": "e5535a2cf65c6f2b",
+      "file_name": "e5535a2cf65c6f2b.jpg",
+      "width": 1024,
+      "height": 577
+    },
+    {
+      "id": "eae7ef14f5e0ec1a",
+      "file_name": "eae7ef14f5e0ec1a.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "eb0c0d5554120ccd",
+      "file_name": "eb0c0d5554120ccd.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "eb380225820890e6",
+      "file_name": "eb380225820890e6.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "ee3d8add332c8b34",
+      "file_name": "ee3d8add332c8b34.jpg",
+      "width": 1024,
+      "height": 765
+    },
+    {
+      "id": "f01e1e332fe10a3c",
+      "file_name": "f01e1e332fe10a3c.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "f0f117684f9dd57e",
+      "file_name": "f0f117684f9dd57e.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "f15a6e4c696003f7",
+      "file_name": "f15a6e4c696003f7.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "f4360a78d152b01d",
+      "file_name": "f4360a78d152b01d.jpg",
+      "width": 1024,
+      "height": 695
+    },
+    {
+      "id": "f9734a51dd65d211",
+      "file_name": "f9734a51dd65d211.jpg",
+      "width": 1024,
+      "height": 640
+    },
+    {
+      "id": "92c2abdcff2c95ab",
+      "file_name": "92c2abdcff2c95ab.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "c17f25c003c3b1c8",
+      "file_name": "c17f25c003c3b1c8.jpg",
+      "width": 1024,
+      "height": 780
+    },
+    {
+      "id": "59011bcf68ffe4e7",
+      "file_name": "59011bcf68ffe4e7.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "1bb33531383c49ac",
+      "file_name": "1bb33531383c49ac.jpg",
+      "width": 1024,
+      "height": 685
+    },
+    {
+      "id": "6cbc6178d2255378",
+      "file_name": "6cbc6178d2255378.jpg",
+      "width": 1024,
+      "height": 773
+    },
+    {
+      "id": "8913bd8eb72963dc",
+      "file_name": "8913bd8eb72963dc.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "b8978c77a9367f6e",
+      "file_name": "b8978c77a9367f6e.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "e85fd4ec8347d141",
+      "file_name": "e85fd4ec8347d141.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "f7b05a857c8dd43c",
+      "file_name": "f7b05a857c8dd43c.jpg",
+      "width": 1024,
+      "height": 550
+    },
+    {
+      "id": "f84711baa640f170",
+      "file_name": "f84711baa640f170.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "f3cfa3ad09945dea",
+      "file_name": "f3cfa3ad09945dea.jpg",
+      "width": 1024,
+      "height": 614
+    },
+    {
+      "id": "6bea4eaa1562c7ae",
+      "file_name": "6bea4eaa1562c7ae.jpg",
+      "width": 768,
+      "height": 1016
+    },
+    {
+      "id": "4ebb0d0f6ca4109e",
+      "file_name": "4ebb0d0f6ca4109e.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "4f11eb9dbaf7a622",
+      "file_name": "4f11eb9dbaf7a622.jpg",
+      "width": 657,
+      "height": 1024
+    },
+    {
+      "id": "fb197778afd793f0",
+      "file_name": "fb197778afd793f0.jpg",
+      "width": 1024,
+      "height": 685
+    },
+    {
+      "id": "c94fbcdd633e11b3",
+      "file_name": "c94fbcdd633e11b3.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "4039d48f06a3c33a",
+      "file_name": "4039d48f06a3c33a.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "9c5ec9466f3a3703",
+      "file_name": "9c5ec9466f3a3703.jpg",
+      "width": 1024,
+      "height": 686
+    },
+    {
+      "id": "bceb9678fa74c818",
+      "file_name": "bceb9678fa74c818.jpg",
+      "width": 1024,
+      "height": 646
+    },
+    {
+      "id": "3c494d318ee583ca",
+      "file_name": "3c494d318ee583ca.jpg",
+      "width": 836,
+      "height": 1024
+    },
+    {
+      "id": "60a457b539bc8bc2",
+      "file_name": "60a457b539bc8bc2.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "9c351bc9ee8c2b51",
+      "file_name": "9c351bc9ee8c2b51.jpg",
+      "width": 1024,
+      "height": 702
+    },
+    {
+      "id": "494c1c49e967eb79",
+      "file_name": "494c1c49e967eb79.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "3838d7bebf4a2914",
+      "file_name": "3838d7bebf4a2914.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "546afa6a8541874c",
+      "file_name": "546afa6a8541874c.jpg",
+      "width": 1024,
+      "height": 714
+    },
+    {
+      "id": "3ab0cbcacf2303cb",
+      "file_name": "3ab0cbcacf2303cb.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "id": "bd0303157ecbeaab",
+      "file_name": "bd0303157ecbeaab.jpg",
+      "width": 1024,
+      "height": 959
+    },
+    {
+      "id": "00e9084d1bc8e0ea",
+      "file_name": "00e9084d1bc8e0ea.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "b100c522db2d030d",
+      "file_name": "b100c522db2d030d.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "bf646c5c90dea12c",
+      "file_name": "bf646c5c90dea12c.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "0dd09cf15ce15412",
+      "file_name": "0dd09cf15ce15412.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "b499182ee39701e0",
+      "file_name": "b499182ee39701e0.jpg",
+      "width": 1024,
+      "height": 685
+    },
+    {
+      "id": "48c09918a72118a1",
+      "file_name": "48c09918a72118a1.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "c6dac581c7146f23",
+      "file_name": "c6dac581c7146f23.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "bb6f263c768b4459",
+      "file_name": "bb6f263c768b4459.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "a9af34c14be1a956",
+      "file_name": "a9af34c14be1a956.jpg",
+      "width": 1024,
+      "height": 801
+    },
+    {
+      "id": "5ba4992a5dec8a7a",
+      "file_name": "5ba4992a5dec8a7a.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "72339fee52338acb",
+      "file_name": "72339fee52338acb.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "aaa12411c2d6378d",
+      "file_name": "aaa12411c2d6378d.jpg",
+      "width": 1024,
+      "height": 678
+    },
+    {
+      "id": "64685fb20bec41db",
+      "file_name": "64685fb20bec41db.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "23c9df7f5d2945cd",
+      "file_name": "23c9df7f5d2945cd.jpg",
+      "width": 1024,
+      "height": 678
+    },
+    {
+      "id": "d0e26d6efd457fc8",
+      "file_name": "d0e26d6efd457fc8.jpg",
+      "width": 1024,
+      "height": 742
+    },
+    {
+      "id": "f6cd17f9dca91cf9",
+      "file_name": "f6cd17f9dca91cf9.jpg",
+      "width": 928,
+      "height": 1024
+    },
+    {
+      "id": "c6324f32dbc3a847",
+      "file_name": "c6324f32dbc3a847.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "id": "e96e29141cab0bc6",
+      "file_name": "e96e29141cab0bc6.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "b2fb0ff2373a5907",
+      "file_name": "b2fb0ff2373a5907.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "38bc321724081a2c",
+      "file_name": "38bc321724081a2c.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "6c851111e7e57b35",
+      "file_name": "6c851111e7e57b35.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "8cfb0b9b024ac03d",
+      "file_name": "8cfb0b9b024ac03d.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "1246b4eba1a28921",
+      "file_name": "1246b4eba1a28921.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "67c9dd8871b245ae",
+      "file_name": "67c9dd8871b245ae.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "36a41c5d75e49e72",
+      "file_name": "36a41c5d75e49e72.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "id": "56136a5dd78b5454",
+      "file_name": "56136a5dd78b5454.jpg",
+      "width": 1024,
+      "height": 685
+    },
+    {
+      "id": "b0a6a432b6d408bb",
+      "file_name": "b0a6a432b6d408bb.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "dc4348210bdbf90c",
+      "file_name": "dc4348210bdbf90c.jpg",
+      "width": 791,
+      "height": 1024
+    },
+    {
+      "id": "f021fd21d0d65f5f",
+      "file_name": "f021fd21d0d65f5f.jpg",
+      "width": 1024,
+      "height": 936
+    },
+    {
+      "id": "c7b6123926e52925",
+      "file_name": "c7b6123926e52925.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "9cb21f17051b1174",
+      "file_name": "9cb21f17051b1174.jpg",
+      "width": 1024,
+      "height": 680
+    },
+    {
+      "id": "95ecc53ab49fea3c",
+      "file_name": "95ecc53ab49fea3c.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "8d7554ec41843eff",
+      "file_name": "8d7554ec41843eff.jpg",
+      "width": 1024,
+      "height": 732
+    },
+    {
+      "id": "3f67ddce3448e74c",
+      "file_name": "3f67ddce3448e74c.jpg",
+      "width": 1024,
+      "height": 733
+    },
+    {
+      "id": "124d86a6d3953a13",
+      "file_name": "124d86a6d3953a13.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "f23f43aee564b826",
+      "file_name": "f23f43aee564b826.jpg",
+      "width": 626,
+      "height": 1024
+    },
+    {
+      "id": "a5d472f1030b942f",
+      "file_name": "a5d472f1030b942f.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "2ca370641fe7394a",
+      "file_name": "2ca370641fe7394a.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": "aebbe4f246bcf0ee",
+      "file_name": "aebbe4f246bcf0ee.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "768b822518ac6b19",
+      "file_name": "768b822518ac6b19.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "id": "b5e14117f82aba8d",
+      "file_name": "b5e14117f82aba8d.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "91becd950a868fca",
+      "file_name": "91becd950a868fca.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "4706d4cbac65389a",
+      "file_name": "4706d4cbac65389a.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": "11aeb618075ac6d7",
+      "file_name": "11aeb618075ac6d7.jpg",
+      "width": 1024,
+      "height": 681
+    },
+    {
+      "id": "cf97377cb331bb4d",
+      "file_name": "cf97377cb331bb4d.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "d7d770f170f8f333",
+      "file_name": "d7d770f170f8f333.jpg",
+      "width": 1024,
+      "height": 681
+    },
+    {
+      "id": "3567f456130c4ec2",
+      "file_name": "3567f456130c4ec2.jpg",
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "id": "970ca679108f27ed",
+      "file_name": "970ca679108f27ed.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "fe6a2debc2901252",
+      "file_name": "fe6a2debc2901252.jpg",
+      "width": 768,
+      "height": 823
+    },
+    {
+      "id": "04d357176397fb31",
+      "file_name": "04d357176397fb31.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "id": "dd0b625833738eb3",
+      "file_name": "dd0b625833738eb3.jpg",
+      "width": 1024,
+      "height": 666
+    },
+    {
+      "id": "8b50bca740622ce6",
+      "file_name": "8b50bca740622ce6.jpg",
+      "width": 1024,
+      "height": 685
+    },
+    {
+      "id": "bb1eb0727b1b8d8e",
+      "file_name": "bb1eb0727b1b8d8e.jpg",
+      "width": 1024,
+      "height": 804
+    },
+    {
+      "id": "fe67317504c74466",
+      "file_name": "fe67317504c74466.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "id": "be08b7bb9582146e",
+      "file_name": "be08b7bb9582146e.jpg",
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": "0069e8be6d4f66f0",
+      "category": "Pizza",
+      "bbox": [
+        0.008830022,
+        0.35450518,
+        0.977924928,
+        0.48596752
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 1,
+      "image_id": "013b99371484d3d5",
+      "category": "Bus",
+      "bbox": [
+        0.1546875,
+        0.10208333,
+        0.765625,
+        0.77083331
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 2,
+      "image_id": "02717d30304f4849",
+      "category": "Bus",
+      "bbox": [
+        0.10625,
+        0.26666668,
+        0.8203125,
+        0.36875001999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 3,
+      "image_id": "0374141ebf11632e",
+      "category": "Drum",
+      "bbox": [
+        0.34264705,
+        0.40354767,
+        0.15294119,
+        0.34589802999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 4,
+      "image_id": "049b2fae5ca8aa8b",
+      "category": "Bicycle",
+      "bbox": [
+        0.01875,
+        0.6145833,
+        0.24843750000000003,
+        0.2708333999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 5,
+      "image_id": "049b2fae5ca8aa8b",
+      "category": "Bicycle",
+      "bbox": [
+        0.0515625,
+        0.5520833,
+        0.2,
+        0.2708333999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 6,
+      "image_id": "049b2fae5ca8aa8b",
+      "category": "Bicycle",
+      "bbox": [
+        0.2953125,
+        0.5104167,
+        0.34062500000000007,
+        0.4249999400000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 7,
+      "image_id": "049b2fae5ca8aa8b",
+      "category": "Bicycle",
+      "bbox": [
+        0.4828125,
+        0.53333336,
+        0.06718750000000007,
+        0.17291664000000007
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 8,
+      "image_id": "049b2fae5ca8aa8b",
+      "category": "Bicycle",
+      "bbox": [
+        0.55,
+        0.51666665,
+        0.1484375,
+        0.23958334999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 9,
+      "image_id": "08e585eb51cb8be0",
+      "category": "Dog",
+      "bbox": [
+        0.022824537,
+        0.03196347,
+        0.550641963,
+        0.96803653
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 10,
+      "image_id": "08e585eb51cb8be0",
+      "category": "Dog",
+      "bbox": [
+        0.42796007,
+        0.28538814,
+        0.57203993,
+        0.71461186
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 11,
+      "image_id": "0b83e754be780735",
+      "category": "Chair",
+      "bbox": [
+        0.15294118,
+        0.49445677,
+        0.84705882,
+        0.50554323
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 12,
+      "image_id": "0d21f579a27f72a9",
+      "category": "Sunglasses",
+      "bbox": [
+        0.5790251,
+        0.388521,
+        0.04431320000000005,
+        0.02428252999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 13,
+      "image_id": "0d21f579a27f72a9",
+      "category": "Sunglasses",
+      "bbox": [
+        0.732644,
+        0.18763797,
+        0.051698699999999986,
+        0.02428256000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 14,
+      "image_id": "0e2b08b1b733add7",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.14757282,
+        0.046979867,
+        0.13203883
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 15,
+      "image_id": "0e2b08b1b733add7",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.29708737,
+        0.6224832,
+        0.57281553
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 16,
+      "image_id": "0e2b08b1b733add7",
+      "category": "Bicycle",
+      "bbox": [
+        0.010067114,
+        0.0019417476,
+        0.348993286,
+        0.27572815240000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 17,
+      "image_id": "0e2b08b1b733add7",
+      "category": "Bicycle",
+      "bbox": [
+        0.06879195,
+        0.05631068,
+        0.34731545,
+        0.22330097
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 18,
+      "image_id": "0e2b08b1b733add7",
+      "category": "Bicycle",
+      "bbox": [
+        0.454698,
+        0.10097087,
+        0.10570470000000004,
+        0.17087379000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 19,
+      "image_id": "0e2b08b1b733add7",
+      "category": "Bicycle",
+      "bbox": [
+        0.7432886,
+        0.06407767,
+        0.17114095000000007,
+        0.24077669
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 20,
+      "image_id": "0e2b08b1b733add7",
+      "category": "Bicycle",
+      "bbox": [
+        0.8557047,
+        0.029126214,
+        0.14429530000000002,
+        0.262135936
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 21,
+      "image_id": "0f48108b3973c7ec",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.0,
+        0.95434463,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 22,
+      "image_id": "0f48108b3973c7ec",
+      "category": "Bicycle",
+      "bbox": [
+        0.79086894,
+        0.0,
+        0.1929307600000001,
+        0.25442478
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 23,
+      "image_id": "1047925fd28f2b9f",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 24,
+      "image_id": "11fc59bf4449b19d",
+      "category": "Bus",
+      "bbox": [
+        0.0,
+        0.1274298,
+        0.064856716,
+        0.475162
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 25,
+      "image_id": "11fc59bf4449b19d",
+      "category": "Bus",
+      "bbox": [
+        0.02111614,
+        0.034557234,
+        0.9622926100000001,
+        0.8920086660000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 26,
+      "image_id": "122259cbb3d91b12",
+      "category": "Sunglasses",
+      "bbox": [
+        0.2393736,
+        0.2026239,
+        0.14317673,
+        0.04810497999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 27,
+      "image_id": "186d668b88451394",
+      "category": "Bus",
+      "bbox": [
+        0.1015625,
+        0.325,
+        0.759375,
+        0.42291664
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 28,
+      "image_id": "1888aa8f2a6fc780",
+      "category": "Guitar",
+      "bbox": [
+        0.0,
+        0.012519562,
+        0.325,
+        0.784037538
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 29,
+      "image_id": "1888aa8f2a6fc780",
+      "category": "Guitar",
+      "bbox": [
+        0.54583335,
+        0.09389672,
+        0.45416665,
+        0.9029733799999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 30,
+      "image_id": "1968c9cbabd1ebbd",
+      "category": "Guitar",
+      "bbox": [
+        0.09375,
+        0.0,
+        0.8625,
+        0.80625
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 31,
+      "image_id": "1bd0c9a68b41d02c",
+      "category": "Sunglasses",
+      "bbox": [
+        0.40441176,
+        0.21507761,
+        0.11470588999999998,
+        0.07760531000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 32,
+      "image_id": "1cd85f7cc478d905",
+      "category": "Bus",
+      "bbox": [
+        0.05,
+        0.08958333,
+        0.8953125,
+        0.73124997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 33,
+      "image_id": "1dad771aeed1ded2",
+      "category": "Pizza",
+      "bbox": [
+        0.15703972,
+        0.17148015,
+        0.70397113,
+        0.71299639
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 34,
+      "image_id": "1e413b62d1a7aab3",
+      "category": "Bus",
+      "bbox": [
+        0.3609375,
+        0.27557412,
+        0.21406249999999993,
+        0.12526095000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 35,
+      "image_id": "1f05d514448663fc",
+      "category": "Drum",
+      "bbox": [
+        0.25165564,
+        0.53323483,
+        0.59602646,
+        0.2983751699999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 36,
+      "image_id": "1f6c156f2cb2d4f2",
+      "category": "Guitar",
+      "bbox": [
+        0.0,
+        0.46902654,
+        0.74115044,
+        0.44395282
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 37,
+      "image_id": "1f6c156f2cb2d4f2",
+      "category": "Guitar",
+      "bbox": [
+        0.7876106,
+        0.39970502,
+        0.19690269999999999,
+        0.35545721999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 38,
+      "image_id": "1f8c3d56166453c3",
+      "category": "Drum",
+      "bbox": [
+        0.09375,
+        0.0,
+        0.778125,
+        0.74791664
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 39,
+      "image_id": "25d1efe63ba4427e",
+      "category": "Dog",
+      "bbox": [
+        0.23156342,
+        0.0022123894,
+        0.7123893800000001,
+        0.9977876106
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 40,
+      "image_id": "282e0c8f8ef8ba8d",
+      "category": "Bus",
+      "bbox": [
+        0.0,
+        0.030973451,
+        1.0,
+        0.8296460489999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 41,
+      "image_id": "286d3c000d8d3591",
+      "category": "Bus",
+      "bbox": [
+        0.11875,
+        0.20833333,
+        0.7609374999999999,
+        0.58333337
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 42,
+      "image_id": "2accb1bb8d4bf0bf",
+      "category": "Bus",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.9746032
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 43,
+      "image_id": "2d123c968fecdd92",
+      "category": "Guitar",
+      "bbox": [
+        0.2225,
+        0.0,
+        0.62,
+        0.99666667
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 44,
+      "image_id": "2dab4bf641b91d2a",
+      "category": "Bicycle",
+      "bbox": [
+        0.0022172949,
+        0.3735294,
+        0.9977827051,
+        0.38823529999999995
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 45,
+      "image_id": "309d8afcf4ab8792",
+      "category": "Bus",
+      "bbox": [
+        0.58112097,
+        0.6438053,
+        0.39380526000000005,
+        0.3561947
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 46,
+      "image_id": "31c5a21d1d2fb132",
+      "category": "Guitar",
+      "bbox": [
+        0.25473684,
+        0.07275542,
+        0.5031579099999999,
+        0.82817338
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 47,
+      "image_id": "328e732605a35403",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 48,
+      "image_id": "350de344c906af4a",
+      "category": "Pizza",
+      "bbox": [
+        0.03068592,
+        0.1064982,
+        0.9314079799999999,
+        0.7725632
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 49,
+      "image_id": "364e66425f4189e7",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 50,
+      "image_id": "37903a5abd540028",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.39791667,
+        0.6484375,
+        0.55000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 51,
+      "image_id": "37903a5abd540028",
+      "category": "Pizza",
+      "bbox": [
+        0.0125,
+        0.00625,
+        0.25625,
+        0.31041666
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 52,
+      "image_id": "37903a5abd540028",
+      "category": "Pizza",
+      "bbox": [
+        0.228125,
+        0.39166668,
+        0.771875,
+        0.56041667
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 53,
+      "image_id": "37903a5abd540028",
+      "category": "Pizza",
+      "bbox": [
+        0.271875,
+        0.075,
+        0.5796875,
+        0.38541666999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 54,
+      "image_id": "38dde2b71edf6611",
+      "category": "Sunglasses",
+      "bbox": [
+        0.4368231,
+        0.39530686,
+        0.19855599999999995,
+        0.06498196
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 55,
+      "image_id": "391d6cd82d708762",
+      "category": "Bus",
+      "bbox": [
+        0.015625,
+        0.19583334,
+        0.984375,
+        0.56875001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 56,
+      "image_id": "3a92d18d77511201",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 57,
+      "image_id": "3af9875f8db050b8",
+      "category": "Sunglasses",
+      "bbox": [
+        0.30144405,
+        0.35559568,
+        0.37545124999999996,
+        0.10288807999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 58,
+      "image_id": "3b0796f2f32f5187",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.0,
+        0.99458486,
+        0.99819493
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 59,
+      "image_id": "3e40cab2517ace8d",
+      "category": "Drum",
+      "bbox": [
+        0.0,
+        0.4734375,
+        0.7604167,
+        0.5265625
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 60,
+      "image_id": "3e86cc844d40fb0c",
+      "category": "Drum",
+      "bbox": [
+        0.0390625,
+        0.035416666,
+        0.8265625,
+        0.9437500339999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 61,
+      "image_id": "3ec2b4d262e2ac4c",
+      "category": "Drum",
+      "bbox": [
+        0.41877255,
+        0.4891697,
+        0.23465705000000003,
+        0.2653429
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 62,
+      "image_id": "3f093b251144dbe9",
+      "category": "Guitar",
+      "bbox": [
+        0.2125,
+        0.35625,
+        0.7875,
+        0.42187499999999994
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 63,
+      "image_id": "3f10138eb086f2e9",
+      "category": "Bus",
+      "bbox": [
+        0.0375,
+        0.18958333,
+        0.75,
+        0.42916667000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 64,
+      "image_id": "3f7d5b7ffa990565",
+      "category": "Bus",
+      "bbox": [
+        0.0453125,
+        0.51458335,
+        0.9546875,
+        0.31666665000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 65,
+      "image_id": "406ad630bcc21406",
+      "category": "Drum",
+      "bbox": [
+        0.2703125,
+        0.7708333,
+        0.284375,
+        0.22916669999999995
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 66,
+      "image_id": "41d377c422fd455d",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.1460177,
+        1.0,
+        0.8539823
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 67,
+      "image_id": "43d0a572b0768443",
+      "category": "Drum",
+      "bbox": [
+        0.5984375,
+        0.9166667,
+        0.1625000000000001,
+        0.08124994000000008
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 68,
+      "image_id": "46862805a3f41c39",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.015486726,
+        1.0,
+        0.902654874
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 69,
+      "image_id": "49800eddc141cf27",
+      "category": "Guitar",
+      "bbox": [
+        0.034375,
+        0.348643,
+        0.959375,
+        0.63465554
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 70,
+      "image_id": "4c8bb70a5e3dc4cb",
+      "category": "Bus",
+      "bbox": [
+        0.04636785,
+        0.023206752,
+        0.93663058,
+        0.894514748
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 71,
+      "image_id": "4cbea5cbf1197c64",
+      "category": "Drum",
+      "bbox": [
+        0.0765625,
+        0.29791668,
+        0.834375,
+        0.47916666
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 72,
+      "image_id": "4fd2dd9573ca1827",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.090625,
+        1.0,
+        0.7625000000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 73,
+      "image_id": "4fdbd2dd57d22774",
+      "category": "Pizza",
+      "bbox": [
+        0.0014705883,
+        0.0,
+        0.9985294117,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 74,
+      "image_id": "53082ecce31b23bc",
+      "category": "Bus",
+      "bbox": [
+        0.44444445,
+        0.58148146,
+        0.19166669000000003,
+        0.21111113999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 75,
+      "image_id": "53082ecce31b23bc",
+      "category": "Bus",
+      "bbox": [
+        0.5777778,
+        0.5888889,
+        0.24444443000000005,
+        0.2074073999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 76,
+      "image_id": "54d149d732cd530b",
+      "category": "Helmet",
+      "bbox": [
+        0.19264705,
+        0.07538803,
+        0.11323531000000003,
+        0.19955654
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 77,
+      "image_id": "54d149d732cd530b",
+      "category": "Helmet",
+      "bbox": [
+        0.5205882,
+        0.037694015,
+        0.0882353400000001,
+        0.197339245
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 78,
+      "image_id": "56f70c7797ff9dce",
+      "category": "Sunglasses",
+      "bbox": [
+        0.17058824,
+        0.0,
+        0.65882351,
+        0.33481154
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 79,
+      "image_id": "572f627b42ccd616",
+      "category": "Drum",
+      "bbox": [
+        0.82743365,
+        0.8716814,
+        0.17256634999999998,
+        0.12831859999999995
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 80,
+      "image_id": "5fd30a5e3b4e35c4",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.012635379,
+        1.0,
+        0.987364621
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 81,
+      "image_id": "61aaf2fb24897513",
+      "category": "Pizza",
+      "bbox": [
+        0.03429603,
+        0.63898915,
+        0.96570397,
+        0.25451265
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 82,
+      "image_id": "645631471c488704",
+      "category": "Drum",
+      "bbox": [
+        0.09224319,
+        0.33281493,
+        0.28511531,
+        0.23483667000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 83,
+      "image_id": "645631471c488704",
+      "category": "Drum",
+      "bbox": [
+        0.20125785,
+        0.44167963,
+        0.58700215,
+        0.41679626999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 84,
+      "image_id": "645631471c488704",
+      "category": "Drum",
+      "bbox": [
+        0.5450734,
+        0.28615862,
+        0.24109009999999997,
+        0.16796268000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 85,
+      "image_id": "66889c8307d49bc6",
+      "category": "Bus",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 86,
+      "image_id": "675bd7ba63cb7831",
+      "category": "Drum",
+      "bbox": [
+        0.0,
+        0.09927798,
+        1.0,
+        0.90072202
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 87,
+      "image_id": "6a316f2b341bdc0b",
+      "category": "Bicycle",
+      "bbox": [
+        0.09386282,
+        0.32310468,
+        0.8321299799999999,
+        0.6516245600000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 88,
+      "image_id": "6a316f2b341bdc0b",
+      "category": "Helmet",
+      "bbox": [
+        0.45126355,
+        0.04873646,
+        0.16606494999999993,
+        0.14801445
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 89,
+      "image_id": "6aa4ff893e357650",
+      "category": "Sunglasses",
+      "bbox": [
+        0.0,
+        0.20888889,
+        0.725,
+        0.35555550999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 90,
+      "image_id": "6ce699ba3a65e521",
+      "category": "Bus",
+      "bbox": [
+        0.027597403,
+        0.21686748,
+        0.951298697,
+        0.61144575
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 91,
+      "image_id": "6dabc38dbc66624d",
+      "category": "Guitar",
+      "bbox": [
+        0.08137715,
+        0.1920668,
+        0.86071985,
+        0.48851775
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 92,
+      "image_id": "6e20219772b664af",
+      "category": "Helmet",
+      "bbox": [
+        0.005899705,
+        0.03761062,
+        0.060471975000000004,
+        0.081858404
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 93,
+      "image_id": "6e20219772b664af",
+      "category": "Helmet",
+      "bbox": [
+        0.29056048,
+        0.21460177,
+        0.11209438,
+        0.20353983
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 94,
+      "image_id": "6e20219772b664af",
+      "category": "Helmet",
+      "bbox": [
+        0.43952802,
+        0.25221238,
+        0.09734513999999994,
+        0.22123894
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 95,
+      "image_id": "7042f8d4ce6778db",
+      "category": "Drum",
+      "bbox": [
+        0.3006263,
+        0.39375,
+        0.26931105,
+        0.19531250000000006
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 96,
+      "image_id": "7042f8d4ce6778db",
+      "category": "Guitar",
+      "bbox": [
+        0.28392485,
+        0.0734375,
+        0.6868476,
+        0.5421874999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 97,
+      "image_id": "71df582bfb39b541",
+      "category": "Bus",
+      "bbox": [
+        0.0,
+        0.38053098,
+        0.15316643,
+        0.21238938000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 98,
+      "image_id": "71df582bfb39b541",
+      "category": "Bus",
+      "bbox": [
+        0.22974963,
+        0.3761062,
+        0.41826217,
+        0.25884956
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 99,
+      "image_id": "71df582bfb39b541",
+      "category": "Bus",
+      "bbox": [
+        0.6421208,
+        0.38938054,
+        0.2474227,
+        0.13053095999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 100,
+      "image_id": "71df72bf0f7b67ca",
+      "category": "Bus",
+      "bbox": [
+        0.054151624,
+        0.24909747,
+        0.8826714760000001,
+        0.58664263
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 101,
+      "image_id": "72bb988bc40f976d",
+      "category": "Drum",
+      "bbox": [
+        0.0,
+        0.46666667,
+        1.0,
+        0.53124997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 102,
+      "image_id": "76a57c569cda5528",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.04375,
+        1.0,
+        0.95625
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 103,
+      "image_id": "76f8fdd48b7ff734",
+      "category": "Chair",
+      "bbox": [
+        0.13898917,
+        0.5758123,
+        0.29241876,
+        0.39891694
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 104,
+      "image_id": "76f8fdd48b7ff734",
+      "category": "Drum",
+      "bbox": [
+        0.366426,
+        0.3736462,
+        0.54151624,
+        0.40794224000000007
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 105,
+      "image_id": "776745390c4835ae",
+      "category": "Drum",
+      "bbox": [
+        0.12636505,
+        0.014613778,
+        0.77223085,
+        0.9665970220000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 106,
+      "image_id": "79a8e9cae9182c30",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.3671875,
+        0.10208333,
+        0.6328125
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 107,
+      "image_id": "79a8e9cae9182c30",
+      "category": "Bicycle",
+      "bbox": [
+        0.014583333,
+        0.0203125,
+        0.706250027,
+        0.9796875
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 108,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.06864274,
+        0.66527194,
+        0.039001565,
+        0.03556490000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 109,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.17316693,
+        0.67782426,
+        0.042121679999999995,
+        0.12133890000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 110,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.1950078,
+        0.583682,
+        0.17628706,
+        0.031380799999999986
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 111,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.21528861,
+        0.67782426,
+        0.06552260999999998,
+        0.1171548400000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 112,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.28705147,
+        0.7824268,
+        0.23868957000000002,
+        0.21548114000000007
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 113,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.44461778,
+        0.71548116,
+        0.10764429000000003,
+        0.1234309400000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 114,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.4929797,
+        0.8096234,
+        0.23400940000000003,
+        0.18828454000000006
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 115,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.54914194,
+        0.6087866,
+        0.4040561899999999,
+        0.12970714000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 116,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.56630266,
+        0.7447699,
+        0.10140404000000003,
+        0.07740584000000006
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 117,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.65678626,
+        0.73012555,
+        0.07644308,
+        0.05857734999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 118,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.7160686,
+        0.8493724,
+        0.2823713,
+        0.14853554000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 119,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.75663024,
+        0.54393303,
+        0.03276135999999996,
+        0.018828469999999986
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 120,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.78471136,
+        0.7364017,
+        0.09204370000000006,
+        0.0648534999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 121,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.8143526,
+        0.54393303,
+        0.04836190000000007,
+        0.02301257000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 122,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.87363493,
+        0.54811716,
+        0.03900156999999993,
+        0.018828440000000057
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 123,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.875195,
+        0.74058574,
+        0.09048363000000004,
+        0.07322181000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 124,
+      "image_id": "7a87225ae9d63bcd",
+      "category": "Chair",
+      "bbox": [
+        0.91419655,
+        0.7635983,
+        0.054602209999999984,
+        0.11087867000000007
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 125,
+      "image_id": "7b60542c86005149",
+      "category": "Drum",
+      "bbox": [
+        0.23333333,
+        0.2515625,
+        0.72499997,
+        0.5499999999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 126,
+      "image_id": "7c1d922420d9ae86",
+      "category": "Bicycle",
+      "bbox": [
+        0.19793205,
+        0.45253864,
+        0.34859675,
+        0.3200883
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 127,
+      "image_id": "7c2d8940e91990d4",
+      "category": "Drum",
+      "bbox": [
+        0.20272109,
+        0.7673861,
+        0.37142857999999995,
+        0.23261390000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 128,
+      "image_id": "7c2d8940e91990d4",
+      "category": "Drum",
+      "bbox": [
+        0.24081632,
+        0.61870503,
+        0.19319728,
+        0.27577936999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 129,
+      "image_id": "7c2d8940e91990d4",
+      "category": "Drum",
+      "bbox": [
+        0.45714286,
+        0.5467626,
+        0.30068024,
+        0.41247
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 130,
+      "image_id": "7c888d0d5fd5b56e",
+      "category": "Guitar",
+      "bbox": [
+        0.0,
+        0.016248154,
+        0.25827813,
+        0.308714906
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 131,
+      "image_id": "7c888d0d5fd5b56e",
+      "category": "Guitar",
+      "bbox": [
+        0.66004413,
+        0.059084196,
+        0.33995587000000005,
+        0.271787304
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 132,
+      "image_id": "811bef6233f25e4b",
+      "category": "Guitar",
+      "bbox": [
+        0.03982301,
+        0.19247788,
+        0.93805309,
+        0.46681416
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 133,
+      "image_id": "816e5c3bfc822700",
+      "category": "Bus",
+      "bbox": [
+        0.107739,
+        0.04077253,
+        0.6525038,
+        0.91630903
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 134,
+      "image_id": "816e5c3bfc822700",
+      "category": "Bus",
+      "bbox": [
+        0.7389985,
+        0.2918455,
+        0.18968130000000005,
+        0.44635195000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 135,
+      "image_id": "83f1383e6b3dd1b3",
+      "category": "Guitar",
+      "bbox": [
+        0.0,
+        0.03761062,
+        1.0,
+        0.96238938
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 136,
+      "image_id": "86cf240adb1303b2",
+      "category": "Bus",
+      "bbox": [
+        0.6609375,
+        0.0,
+        0.33906250000000004,
+        0.25625
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 137,
+      "image_id": "86f11d6200964c9f",
+      "category": "Chair",
+      "bbox": [
+        0.14414415,
+        0.027496383,
+        0.81981985,
+        0.9594790169999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 138,
+      "image_id": "86fa28d162ee13dc",
+      "category": "Guitar",
+      "bbox": [
+        0.0734375,
+        0.29583332,
+        0.9265625,
+        0.7041666799999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 139,
+      "image_id": "8851d9faa6af2db6",
+      "category": "Bus",
+      "bbox": [
+        0.0015625,
+        0.39166668,
+        0.046875,
+        0.29166666
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 140,
+      "image_id": "8851d9faa6af2db6",
+      "category": "Bus",
+      "bbox": [
+        0.0421875,
+        0.21666667,
+        0.890625,
+        0.62291667
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 141,
+      "image_id": "8b6909787418bff8",
+      "category": "Drum",
+      "bbox": [
+        0.0,
+        0.47986576,
+        0.6368932,
+        0.52013424
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 142,
+      "image_id": "8b6909787418bff8",
+      "category": "Drum",
+      "bbox": [
+        0.2485437,
+        0.3204698,
+        0.4699029,
+        0.40771809999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 143,
+      "image_id": "8b6909787418bff8",
+      "category": "Drum",
+      "bbox": [
+        0.5533981,
+        0.43456376,
+        0.34174755,
+        0.37919463999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 144,
+      "image_id": "8c4da5a7c7a917dd",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.94404334
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 145,
+      "image_id": "8d33fc967f2014e4",
+      "category": "Pizza",
+      "bbox": [
+        0.033923306,
+        0.0,
+        0.964601794,
+        0.98893803
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 146,
+      "image_id": "906b6983d21819fe",
+      "category": "Drum",
+      "bbox": [
+        0.114,
+        0.02586207,
+        0.838,
+        0.97413793
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 147,
+      "image_id": "9096234981cd480a",
+      "category": "Guitar",
+      "bbox": [
+        0.0765625,
+        0.0,
+        0.8671875,
+        0.95208335
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 148,
+      "image_id": "92253167e8e013d3",
+      "category": "Drum",
+      "bbox": [
+        0.06583072,
+        0.047817048,
+        0.87460815,
+        0.893970912
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 149,
+      "image_id": "947a61e750f23ce9",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.47345132,
+        0.100294985,
+        0.33849558
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 150,
+      "image_id": "947a61e750f23ce9",
+      "category": "Bicycle",
+      "bbox": [
+        0.050147492,
+        0.460177,
+        0.14011799800000002,
+        0.30088497
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 151,
+      "image_id": "947a61e750f23ce9",
+      "category": "Bicycle",
+      "bbox": [
+        0.2359882,
+        0.460177,
+        0.579646,
+        0.4845133
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 152,
+      "image_id": "947a61e750f23ce9",
+      "category": "Bicycle",
+      "bbox": [
+        0.9454277,
+        0.6261062,
+        0.05457230000000002,
+        0.3252212400000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 153,
+      "image_id": "947a61e750f23ce9",
+      "category": "Helmet",
+      "bbox": [
+        0.02359882,
+        0.25,
+        0.03982301,
+        0.11504424000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 154,
+      "image_id": "947a61e750f23ce9",
+      "category": "Helmet",
+      "bbox": [
+        0.09882006,
+        0.26548672,
+        0.04867257000000001,
+        0.09292035999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 155,
+      "image_id": "947a61e750f23ce9",
+      "category": "Helmet",
+      "bbox": [
+        0.2979351,
+        0.24778761,
+        0.05752212000000001,
+        0.12831859
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 156,
+      "image_id": "947a61e750f23ce9",
+      "category": "Helmet",
+      "bbox": [
+        0.4380531,
+        0.29646018,
+        0.044247780000000014,
+        0.09955751999999995
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 157,
+      "image_id": "947a61e750f23ce9",
+      "category": "Helmet",
+      "bbox": [
+        0.56047195,
+        0.19247788,
+        0.06342185,
+        0.11725664000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 158,
+      "image_id": "947a61e750f23ce9",
+      "category": "Helmet",
+      "bbox": [
+        0.6784661,
+        0.28761062,
+        0.06342180000000008,
+        0.13274336000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 159,
+      "image_id": "9745b225d8be2f1b",
+      "category": "Guitar",
+      "bbox": [
+        0.26222223,
+        0.11,
+        0.33333331,
+        0.7233333000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 160,
+      "image_id": "98305aefefa0ecf6",
+      "category": "Drum",
+      "bbox": [
+        0.075,
+        0.13958333,
+        0.38437499999999997,
+        0.48958333
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 161,
+      "image_id": "98305aefefa0ecf6",
+      "category": "Drum",
+      "bbox": [
+        0.1578125,
+        0.05,
+        0.27031249999999996,
+        0.18125000000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 162,
+      "image_id": "98305aefefa0ecf6",
+      "category": "Drum",
+      "bbox": [
+        0.271875,
+        0.38333333,
+        0.43281250000000004,
+        0.57708337
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 163,
+      "image_id": "98305aefefa0ecf6",
+      "category": "Drum",
+      "bbox": [
+        0.534375,
+        0.15625,
+        0.27031249999999996,
+        0.22499999999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 164,
+      "image_id": "98305aefefa0ecf6",
+      "category": "Drum",
+      "bbox": [
+        0.575,
+        0.27083334,
+        0.33281250000000007,
+        0.42916666
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 165,
+      "image_id": "985ff5921c34ad03",
+      "category": "Sunglasses",
+      "bbox": [
+        0.40892857,
+        0.15549597,
+        0.19285713,
+        0.11528153
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 166,
+      "image_id": "987744ee1fddcc0f",
+      "category": "Pizza",
+      "bbox": [
+        0.0421875,
+        0.09166667,
+        0.6749999999999999,
+        0.78333333
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 167,
+      "image_id": "9b5c1eaf3136be52",
+      "category": "Bus",
+      "bbox": [
+        0.0,
+        0.38689217,
+        0.6574074,
+        0.60887948
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 168,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.089770354,
+        0.034375,
+        0.07098121600000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 169,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.034375,
+        0.089770354,
+        0.05,
+        0.100208766
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 170,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.103125,
+        0.11691023,
+        0.06718750000000001,
+        0.11899790999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 171,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.1640625,
+        0.098121084,
+        0.04218749999999999,
+        0.089770356
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 172,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.2,
+        0.15031315,
+        0.048437499999999994,
+        0.05219207000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 173,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.2296875,
+        0.10438413,
+        0.05781249999999999,
+        0.11064718
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 174,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.2765625,
+        0.13152401,
+        0.02812500000000001,
+        0.15031316000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 175,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.4046875,
+        0.14822547,
+        0.06875000000000003,
+        0.10438412999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 176,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.6125,
+        0.13569938,
+        0.035937499999999956,
+        0.05427973999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 177,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.7484375,
+        0.13778706,
+        0.021874999999999978,
+        0.01461378000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 178,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.8640625,
+        0.11899791,
+        0.03281250000000002,
+        0.03966597000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 179,
+      "image_id": "9c900db293e37506",
+      "category": "Chair",
+      "bbox": [
+        0.925,
+        0.17118998,
+        0.06093749999999998,
+        0.16492692
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 180,
+      "image_id": "9dc7d3dcc87474a7",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.0,
+        0.97495824,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 181,
+      "image_id": "9f66947fe3705a67",
+      "category": "Dog",
+      "bbox": [
+        0.28529412,
+        0.09534368,
+        0.65882355,
+        0.90465632
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 182,
+      "image_id": "9fa34f43b920f689",
+      "category": "Bus",
+      "bbox": [
+        0.0,
+        0.08958333,
+        0.9859375,
+        0.76249997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 183,
+      "image_id": "a101b4b3a1635c66",
+      "category": "Sunglasses",
+      "bbox": [
+        0.3952381,
+        0.19917865,
+        0.11904764000000007,
+        0.041067749999999986
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 184,
+      "image_id": "a144cb066f688185",
+      "category": "Helmet",
+      "bbox": [
+        0.33481482,
+        0.017582418,
+        0.27407403999999996,
+        0.712087932
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 185,
+      "image_id": "a17259b464419495",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.39166668,
+        1.0,
+        0.6083333200000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 186,
+      "image_id": "a26b2c00a79d2c0d",
+      "category": "Drum",
+      "bbox": [
+        0.08196721,
+        0.12649165,
+        0.70765029,
+        0.87350835
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 187,
+      "image_id": "a3898d7be48dded7",
+      "category": "Helmet",
+      "bbox": [
+        0.019911505,
+        0.25663716,
+        0.320796455,
+        0.24778759
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 188,
+      "image_id": "a3898d7be48dded7",
+      "category": "Helmet",
+      "bbox": [
+        0.5641593,
+        0.0,
+        0.43584069999999997,
+        0.53687316
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 189,
+      "image_id": "a482fc6ab954fd55",
+      "category": "Drum",
+      "bbox": [
+        0.0171875,
+        0.0,
+        0.9828125,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 190,
+      "image_id": "aa635959507530eb",
+      "category": "Guitar",
+      "bbox": [
+        0.25884956,
+        0.0,
+        0.6039822699999999,
+        0.9926362
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 191,
+      "image_id": "aa81ff2c072c62f7",
+      "category": "Guitar",
+      "bbox": [
+        0.3125,
+        0.0921875,
+        0.36458330000000005,
+        0.6843750000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 192,
+      "image_id": "ada5030d58fe7835",
+      "category": "Guitar",
+      "bbox": [
+        0.0,
+        0.0,
+        0.1420839,
+        0.43373495
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 193,
+      "image_id": "af1c23fb3dd401bd",
+      "category": "Drum",
+      "bbox": [
+        0.0046875,
+        0.15416667,
+        0.99375,
+        0.84583333
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 194,
+      "image_id": "b038d9368f753533",
+      "category": "Drum",
+      "bbox": [
+        0.019174041,
+        0.47345132,
+        0.206489679,
+        0.20132744000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 195,
+      "image_id": "b7904a8837396983",
+      "category": "Chair",
+      "bbox": [
+        0.20441176,
+        0.45232815,
+        0.10147060000000002,
+        0.32594235
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 196,
+      "image_id": "b7904a8837396983",
+      "category": "Chair",
+      "bbox": [
+        0.5382353,
+        0.6452328,
+        0.3852941,
+        0.35476719999999995
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 197,
+      "image_id": "b98b1d615d1bd31f",
+      "category": "Sunglasses",
+      "bbox": [
+        0.34070796,
+        0.22123894,
+        0.13274336000000003,
+        0.03244838
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 198,
+      "image_id": "ba9cb8884bf69279",
+      "category": "Drum",
+      "bbox": [
+        0.47496617,
+        0.12289157,
+        0.41813262999999995,
+        0.7590361299999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 199,
+      "image_id": "baf2df8954eece9b",
+      "category": "Helmet",
+      "bbox": [
+        0.16875,
+        0.046875,
+        0.46666669999999993,
+        0.390625
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 200,
+      "image_id": "bc37ccba2857d1e7",
+      "category": "Sunglasses",
+      "bbox": [
+        0.16150442,
+        0.359882,
+        0.66814158,
+        0.09439528000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 201,
+      "image_id": "be9c298bcc3923b7",
+      "category": "Sunglasses",
+      "bbox": [
+        0.3875,
+        0.7296875,
+        0.31875000000000003,
+        0.12187499999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 202,
+      "image_id": "bfc0b7dbe0c8ffa1",
+      "category": "Bus",
+      "bbox": [
+        0.2375,
+        0.18333334,
+        0.7078125,
+        0.60208332
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 203,
+      "image_id": "c05ca0f3781c37dc",
+      "category": "Pizza",
+      "bbox": [
+        0.0013679891,
+        0.0,
+        0.9986320109,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 204,
+      "image_id": "c073c3cf1ff452ec",
+      "category": "Pizza",
+      "bbox": [
+        0.340625,
+        0.57708335,
+        0.36718749999999994,
+        0.16458335000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 205,
+      "image_id": "c1c05b097eebe3a4",
+      "category": "Bus",
+      "bbox": [
+        0.10942249,
+        0.15450644,
+        0.7857143099999999,
+        0.69098712
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 206,
+      "image_id": "c21c2bd8a499ed95",
+      "category": "Sunglasses",
+      "bbox": [
+        0.32743362,
+        0.09439528,
+        0.170354,
+        0.04867257
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 207,
+      "image_id": "c21c8c2eae262421",
+      "category": "Sunglasses",
+      "bbox": [
+        0.34375,
+        0.28333333,
+        0.12656250000000002,
+        0.70416667
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 208,
+      "image_id": "c2ed6ddf764b96d4",
+      "category": "Chair",
+      "bbox": [
+        0.203125,
+        0.52916664,
+        0.17031249999999998,
+        0.15208336
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 209,
+      "image_id": "c431603fbfc7540d",
+      "category": "Guitar",
+      "bbox": [
+        0.05107084,
+        0.102970295,
+        0.94892916,
+        0.823762365
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 210,
+      "image_id": "c4654534c99ba80a",
+      "category": "Bus",
+      "bbox": [
+        0.11029412,
+        0.09756097,
+        0.73823528,
+        0.75166303
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 211,
+      "image_id": "c46ad86ccb7ed0c9",
+      "category": "Drum",
+      "bbox": [
+        0.066176474,
+        0.5144124,
+        0.6897059259999999,
+        0.15964526
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 212,
+      "image_id": "c4d62e55691ed1e4",
+      "category": "Guitar",
+      "bbox": [
+        0.0,
+        0.06415929,
+        0.91016203,
+        0.84734516
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 213,
+      "image_id": "c500dd7e90136de2",
+      "category": "Bus",
+      "bbox": [
+        0.107669614,
+        0.43362832,
+        0.846607686,
+        0.39159291999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 214,
+      "image_id": "c620d8d3c2e67be9",
+      "category": "Bicycle",
+      "bbox": [
+        0.10853835,
+        0.5337838,
+        0.2431259,
+        0.22972969999999993
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 215,
+      "image_id": "c620d8d3c2e67be9",
+      "category": "Bicycle",
+      "bbox": [
+        0.35455862,
+        0.5022523,
+        0.17510852000000005,
+        0.27477470000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 216,
+      "image_id": "c620d8d3c2e67be9",
+      "category": "Bicycle",
+      "bbox": [
+        0.7134588,
+        0.5022523,
+        0.1534008,
+        0.2927927
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 217,
+      "image_id": "c658026260b5ba62",
+      "category": "Bicycle",
+      "bbox": [
+        0.3828125,
+        0.625,
+        0.34062499999999996,
+        0.375
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 218,
+      "image_id": "c8616447d48a8ee6",
+      "category": "Pizza",
+      "bbox": [
+        0.0015625,
+        0.12291667,
+        0.9984375,
+        0.87499997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 219,
+      "image_id": "cc94d1513871c552",
+      "category": "Bus",
+      "bbox": [
+        0.25368732,
+        0.17920354,
+        0.40412978000000005,
+        0.39159296000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 220,
+      "image_id": "cd15d27d6e32fee7",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.0203125,
+        1.0,
+        0.9421875000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 221,
+      "image_id": "cf1e3b6faf8b00cf",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.016245488,
+        0.99819493,
+        0.983754512
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 222,
+      "image_id": "d0febb103b8e2d5c",
+      "category": "Pizza",
+      "bbox": [
+        0.0018050541,
+        0.07581227,
+        0.9981949459,
+        0.89711193
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 223,
+      "image_id": "d3477da8d26d5171",
+      "category": "Guitar",
+      "bbox": [
+        0.057291668,
+        0.50844276,
+        0.855902732,
+        0.36960603999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 224,
+      "image_id": "d4f6d82dd83b75dc",
+      "category": "Sunglasses",
+      "bbox": [
+        0.4061372,
+        0.33393502,
+        0.21299639999999997,
+        0.07039710999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 225,
+      "image_id": "d58367f87f3617ea",
+      "category": "Bus",
+      "bbox": [
+        0.03797468,
+        0.16237113,
+        0.9265822499999999,
+        0.62628867
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 226,
+      "image_id": "d6f555694b216c17",
+      "category": "Sunglasses",
+      "bbox": [
+        0.29424778,
+        0.19321534,
+        0.31415931999999996,
+        0.05014748999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 227,
+      "image_id": "d7727b7fe703cfe9",
+      "category": "Pizza",
+      "bbox": [
+        0.0546875,
+        0.016666668,
+        0.91875,
+        0.983333332
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 228,
+      "image_id": "da7113473d488888",
+      "category": "Guitar",
+      "bbox": [
+        0.61504424,
+        0.3561947,
+        0.34660766,
+        0.56637165
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 229,
+      "image_id": "db4f31525d9ad4ba",
+      "category": "Drum",
+      "bbox": [
+        0.2140625,
+        0.09166667,
+        0.6578124999999999,
+        0.83750003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 230,
+      "image_id": "dfbb92ef729ab632",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.027083334,
+        1.0,
+        0.972916666
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 231,
+      "image_id": "e06b4722adbe5748",
+      "category": "Sunglasses",
+      "bbox": [
+        0.29867256,
+        0.19911504,
+        0.18805310000000003,
+        0.07522124
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 232,
+      "image_id": "e0d2f23cbc0b903d",
+      "category": "Pizza",
+      "bbox": [
+        0.09375,
+        0.0,
+        0.8953125,
+        0.96666664
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 233,
+      "image_id": "e15d7945e81ab8fd",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.08869179,
+        1.0,
+        0.8137472099999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 234,
+      "image_id": "e1c19875643b041f",
+      "category": "Bus",
+      "bbox": [
+        0.1,
+        0.079166666,
+        0.846875,
+        0.706249994
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 235,
+      "image_id": "e28ae49ea4fbca47",
+      "category": "Drum",
+      "bbox": [
+        0.028037382,
+        0.03860294,
+        0.9158878779999999,
+        0.93198526
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 236,
+      "image_id": "e5535a2cf65c6f2b",
+      "category": "Drum",
+      "bbox": [
+        0.013550135,
+        0.34375,
+        0.14769647500000002,
+        0.2307692
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 237,
+      "image_id": "e5535a2cf65c6f2b",
+      "category": "Drum",
+      "bbox": [
+        0.13143632,
+        0.19711539,
+        0.12737128000000003,
+        0.26442307
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 238,
+      "image_id": "e5535a2cf65c6f2b",
+      "category": "Drum",
+      "bbox": [
+        0.26422763,
+        0.2139423,
+        0.10298103000000003,
+        0.21153848
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 239,
+      "image_id": "e5535a2cf65c6f2b",
+      "category": "Guitar",
+      "bbox": [
+        0.06368563,
+        0.13461539,
+        0.16260163,
+        0.79807691
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 240,
+      "image_id": "e5535a2cf65c6f2b",
+      "category": "Guitar",
+      "bbox": [
+        0.21409214,
+        0.78125,
+        0.27642276,
+        0.21875
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 241,
+      "image_id": "e5535a2cf65c6f2b",
+      "category": "Guitar",
+      "bbox": [
+        0.7195122,
+        0.34375,
+        0.18428184999999997,
+        0.3317308
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 242,
+      "image_id": "e5535a2cf65c6f2b",
+      "category": "Guitar",
+      "bbox": [
+        0.7669377,
+        0.37019232,
+        0.23306229999999994,
+        0.62980768
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 243,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.6791667,
+        0.053125,
+        0.05416664999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 244,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.81666666,
+        0.025,
+        0.03125
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 245,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.0234375,
+        0.53541666,
+        0.0296875,
+        0.05000004000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 246,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.03125,
+        0.8354167,
+        0.0875,
+        0.05833330000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 247,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.04375,
+        0.55833334,
+        0.02500000000000001,
+        0.050000009999999984
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 248,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.05625,
+        0.5833333,
+        0.0484375,
+        0.05208339999999989
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 249,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.0921875,
+        0.61041665,
+        0.06562499999999999,
+        0.05416664999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 250,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.103125,
+        0.5,
+        0.0390625,
+        0.05625000000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 251,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.103125,
+        0.71666664,
+        0.0546875,
+        0.05625005999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 252,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.13125,
+        0.85,
+        0.0765625,
+        0.06874999999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 253,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.1359375,
+        0.51666665,
+        0.029687500000000006,
+        0.06041669999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 254,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.1515625,
+        0.5416667,
+        0.04375000000000001,
+        0.04375000000000007
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 255,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.159375,
+        0.7416667,
+        0.07187500000000002,
+        0.05833330000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 256,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.19375,
+        0.65833336,
+        0.06562500000000002,
+        0.043749990000000016
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 257,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.2,
+        0.56875,
+        0.048437499999999994,
+        0.06041666000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 258,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.2875,
+        0.89166665,
+        0.06718750000000001,
+        0.045833349999999995
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 259,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.3078125,
+        0.76666665,
+        0.05625000000000002,
+        0.043749990000000016
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 260,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.3296875,
+        0.6041667,
+        0.043749999999999956,
+        0.03125
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 261,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.334375,
+        0.6791667,
+        0.04843750000000002,
+        0.03958329999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 262,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.3859375,
+        0.45833334,
+        0.021875000000000033,
+        0.024999980000000033
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 263,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.396875,
+        0.89166665,
+        0.05625000000000002,
+        0.05208334999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 264,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.403125,
+        0.77916664,
+        0.04999999999999999,
+        0.039583359999999956
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 265,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.4140625,
+        0.45833334,
+        0.021874999999999978,
+        0.020833320000000044
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 266,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.4171875,
+        0.68541664,
+        0.04062500000000002,
+        0.03750001999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 267,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.428125,
+        0.6145833,
+        0.03593750000000001,
+        0.0229166999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 268,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.5640625,
+        0.61041665,
+        0.04218749999999993,
+        0.045833349999999995
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 269,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.584375,
+        0.47083333,
+        0.020312500000000067,
+        0.025000010000000017
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 270,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.5859375,
+        0.78125,
+        0.05312499999999998,
+        0.03749999999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 271,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.5875,
+        0.6979167,
+        0.0390625,
+        0.020833300000000055
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 272,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.59375,
+        0.8833333,
+        0.06562500000000004,
+        0.07291670000000006
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 273,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.6125,
+        0.45833334,
+        0.01718749999999991,
+        0.01874999000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 274,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.6421875,
+        0.45416668,
+        0.017187500000000022,
+        0.02291665000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 275,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.65625,
+        0.6041667,
+        0.04062500000000002,
+        0.0395833000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 276,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.659375,
+        0.68541664,
+        0.04999999999999993,
+        0.03333335999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 277,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.678125,
+        0.775,
+        0.057812500000000044,
+        0.05208334999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 278,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.70625,
+        0.8833333,
+        0.06093749999999998,
+        0.0625
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 279,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.765625,
+        0.6625,
+        0.051562499999999956,
+        0.0625
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 280,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.775,
+        0.5854167,
+        0.03749999999999998,
+        0.03333330000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 281,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.803125,
+        0.74791664,
+        0.0546875,
+        0.07083335999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 282,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.815625,
+        0.5541667,
+        0.03749999999999998,
+        0.06458330000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 283,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.840625,
+        0.84791666,
+        0.07187500000000002,
+        0.09791664
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 284,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.859375,
+        0.60833335,
+        0.050000000000000044,
+        0.06666665000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 285,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.8609375,
+        0.53541666,
+        0.025000000000000022,
+        0.05000004000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 286,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.875,
+        0.71666664,
+        0.05625000000000002,
+        0.07500005999999992
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 287,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.8859375,
+        0.5125,
+        0.015625,
+        0.03333335000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 288,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.915625,
+        0.5875,
+        0.0390625,
+        0.06458333999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 289,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.93125,
+        0.8375,
+        0.051562499999999956,
+        0.06041669999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 290,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.953125,
+        0.56875,
+        0.014062499999999978,
+        0.04166665000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 291,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.953125,
+        0.6770833,
+        0.04531249999999998,
+        0.07083333999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 292,
+      "image_id": "eae7ef14f5e0ec1a",
+      "category": "Chair",
+      "bbox": [
+        0.96875,
+        0.5416667,
+        0.026562500000000044,
+        0.05416666000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 293,
+      "image_id": "eb0c0d5554120ccd",
+      "category": "Sunglasses",
+      "bbox": [
+        0.3265625,
+        0.28541666,
+        0.04375000000000001,
+        0.022916680000000023
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 294,
+      "image_id": "eb380225820890e6",
+      "category": "Drum",
+      "bbox": [
+        0.13166666,
+        0.29555556,
+        0.11333334,
+        0.20888884000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 295,
+      "image_id": "eb380225820890e6",
+      "category": "Drum",
+      "bbox": [
+        0.31833333,
+        0.31111112,
+        0.12,
+        0.20000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 296,
+      "image_id": "eb380225820890e6",
+      "category": "Drum",
+      "bbox": [
+        0.6016667,
+        0.3288889,
+        0.08166664000000001,
+        0.19333329999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 297,
+      "image_id": "eb380225820890e6",
+      "category": "Drum",
+      "bbox": [
+        0.8516667,
+        0.31777778,
+        0.12166666000000004,
+        0.20222222
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 298,
+      "image_id": "ee3d8add332c8b34",
+      "category": "Pizza",
+      "bbox": [
+        0.0,
+        0.035490606,
+        1.0,
+        0.964509394
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 299,
+      "image_id": "f01e1e332fe10a3c",
+      "category": "Sunglasses",
+      "bbox": [
+        0.34070796,
+        0.26106194,
+        0.22418880000000002,
+        0.11725664000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 300,
+      "image_id": "f0f117684f9dd57e",
+      "category": "Guitar",
+      "bbox": [
+        0.0203125,
+        0.26041666,
+        0.946875,
+        0.45624998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 301,
+      "image_id": "f15a6e4c696003f7",
+      "category": "Helmet",
+      "bbox": [
+        0.7296875,
+        0.14375,
+        0.15312499999999996,
+        0.14583333000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 302,
+      "image_id": "f4360a78d152b01d",
+      "category": "Bus",
+      "bbox": [
+        0.50446427,
+        0.06140351,
+        0.21279762999999996,
+        0.14035088
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 303,
+      "image_id": "f9734a51dd65d211",
+      "category": "Drum",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 304,
+      "image_id": "92c2abdcff2c95ab",
+      "category": "Dog",
+      "bbox": [
+        0.15,
+        0.39583334,
+        0.728125,
+        0.5750000200000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 305,
+      "image_id": "c17f25c003c3b1c8",
+      "category": "Dog",
+      "bbox": [
+        0.05511811,
+        0.06832298,
+        0.40314961,
+        0.91304348
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 306,
+      "image_id": "c17f25c003c3b1c8",
+      "category": "Dog",
+      "bbox": [
+        0.40944883,
+        0.12008282,
+        0.48661414000000003,
+        0.87370602
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 307,
+      "image_id": "59011bcf68ffe4e7",
+      "category": "Dog",
+      "bbox": [
+        0.025270758,
+        0.0072202166,
+        0.906137142,
+        0.9927797834
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 308,
+      "image_id": "1bb33531383c49ac",
+      "category": "Dog",
+      "bbox": [
+        0.19054653,
+        0.22075056,
+        0.30132939000000003,
+        0.5121412999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 309,
+      "image_id": "1bb33531383c49ac",
+      "category": "Dog",
+      "bbox": [
+        0.46381092,
+        0.34437087,
+        0.21713441999999994,
+        0.36865338999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 310,
+      "image_id": "1bb33531383c49ac",
+      "category": "Dog",
+      "bbox": [
+        0.5110783,
+        0.205298,
+        0.07828650000000004,
+        0.25386316
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 311,
+      "image_id": "6cbc6178d2255378",
+      "category": "Dog",
+      "bbox": [
+        0.04231975,
+        0.14760914,
+        0.45924765,
+        0.84615383
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 312,
+      "image_id": "6cbc6178d2255378",
+      "category": "Dog",
+      "bbox": [
+        0.55172414,
+        0.24948025,
+        0.44827585999999997,
+        0.75051975
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 313,
+      "image_id": "8913bd8eb72963dc",
+      "category": "Dog",
+      "bbox": [
+        0.0421875,
+        0.0,
+        0.8078124999999999,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 314,
+      "image_id": "b8978c77a9367f6e",
+      "category": "Dog",
+      "bbox": [
+        0.475,
+        0.25208333,
+        0.4859375,
+        0.74791667
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 315,
+      "image_id": "e85fd4ec8347d141",
+      "category": "Dog",
+      "bbox": [
+        0.23826715,
+        0.0,
+        0.66425995,
+        0.82490975
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 316,
+      "image_id": "f7b05a857c8dd43c",
+      "category": "Dog",
+      "bbox": [
+        0.0066225166,
+        0.0073891627,
+        0.9655629134,
+        0.8004926373
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 317,
+      "image_id": "f84711baa640f170",
+      "category": "Dog",
+      "bbox": [
+        0.06875,
+        0.14166667,
+        0.7265625,
+        0.56458333
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 318,
+      "image_id": "f3cfa3ad09945dea",
+      "category": "Dog",
+      "bbox": [
+        0.3846154,
+        0.08624709,
+        0.18601395999999998,
+        0.71095571
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 319,
+      "image_id": "6bea4eaa1562c7ae",
+      "category": "Dog",
+      "bbox": [
+        0.01871102,
+        0.26530612,
+        0.9438669199999999,
+        0.73469388
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 320,
+      "image_id": "4ebb0d0f6ca4109e",
+      "category": "Dog",
+      "bbox": [
+        0.021875,
+        0.09375,
+        0.834375,
+        0.79375
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 321,
+      "image_id": "4f11eb9dbaf7a622",
+      "category": "Dog",
+      "bbox": [
+        0.033980582,
+        0.021806853,
+        0.8883495180000001,
+        0.9314641770000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 322,
+      "image_id": "fb197778afd793f0",
+      "category": "Dog",
+      "bbox": [
+        0.37223044,
+        0.0,
+        0.62776956,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 323,
+      "image_id": "c94fbcdd633e11b3",
+      "category": "Dog",
+      "bbox": [
+        0.030973451,
+        0.07522124,
+        0.969026549,
+        0.92477876
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 324,
+      "image_id": "4039d48f06a3c33a",
+      "category": "Dog",
+      "bbox": [
+        0.1796875,
+        0.072916664,
+        0.7546875,
+        0.7687499760000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 325,
+      "image_id": "9c5ec9466f3a3703",
+      "category": "Dog",
+      "bbox": [
+        0.16691285,
+        0.0,
+        0.82865585,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 326,
+      "image_id": "bceb9678fa74c818",
+      "category": "Dog",
+      "bbox": [
+        0.2191977,
+        0.17272727,
+        0.5744986000000001,
+        0.78636363
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 327,
+      "image_id": "3c494d318ee583ca",
+      "category": "Dog",
+      "bbox": [
+        0.01,
+        0.026101142,
+        0.964,
+        0.973898858
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 328,
+      "image_id": "60a457b539bc8bc2",
+      "category": "Bicycle",
+      "bbox": [
+        0.057761732,
+        0.13537906,
+        0.833935018,
+        0.75451264
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 329,
+      "image_id": "60a457b539bc8bc2",
+      "category": "Bicycle",
+      "bbox": [
+        0.5902527,
+        0.0,
+        0.40974730000000004,
+        0.3537906
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 330,
+      "image_id": "9c351bc9ee8c2b51",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.1459695,
+        0.21973094,
+        0.27886710000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 331,
+      "image_id": "9c351bc9ee8c2b51",
+      "category": "Bicycle",
+      "bbox": [
+        0.046337817,
+        0.21568628,
+        0.8998505130000001,
+        0.78431372
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 332,
+      "image_id": "9c351bc9ee8c2b51",
+      "category": "Bicycle",
+      "bbox": [
+        0.30792227,
+        0.24183007,
+        0.6741404900000001,
+        0.53159038
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 333,
+      "image_id": "9c351bc9ee8c2b51",
+      "category": "Bicycle",
+      "bbox": [
+        0.3393124,
+        0.054466233,
+        0.30792230000000004,
+        0.209150327
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 334,
+      "image_id": "494c1c49e967eb79",
+      "category": "Bicycle",
+      "bbox": [
+        0.6504425,
+        0.84070796,
+        0.34955749999999997,
+        0.15929203999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 335,
+      "image_id": "3838d7bebf4a2914",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.117256634,
+        0.22418879,
+        0.477876136
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 336,
+      "image_id": "3838d7bebf4a2914",
+      "category": "Bicycle",
+      "bbox": [
+        0.22271386,
+        0.18362832,
+        0.34660764,
+        0.42477877999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 337,
+      "image_id": "3838d7bebf4a2914",
+      "category": "Bicycle",
+      "bbox": [
+        0.46755162,
+        0.12610619,
+        0.5324483799999999,
+        0.67035396
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 338,
+      "image_id": "546afa6a8541874c",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 339,
+      "image_id": "3ab0cbcacf2303cb",
+      "category": "Bicycle",
+      "bbox": [
+        0.41678938,
+        0.006637168,
+        0.38733432,
+        0.834070792
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 340,
+      "image_id": "bd0303157ecbeaab",
+      "category": "Bicycle",
+      "bbox": [
+        0.10489511,
+        0.30410448,
+        0.8513985900000001,
+        0.69402982
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 341,
+      "image_id": "00e9084d1bc8e0ea",
+      "category": "Bicycle",
+      "bbox": [
+        0.07964602,
+        0.0,
+        0.82448378,
+        0.8716814
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 342,
+      "image_id": "b100c522db2d030d",
+      "category": "Bicycle",
+      "bbox": [
+        0.334375,
+        0.4875,
+        0.19687500000000002,
+        0.5125
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 343,
+      "image_id": "b100c522db2d030d",
+      "category": "Bicycle",
+      "bbox": [
+        0.971875,
+        0.0,
+        0.028124999999999956,
+        0.16041666
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 344,
+      "image_id": "bf646c5c90dea12c",
+      "category": "Bicycle",
+      "bbox": [
+        0.0,
+        0.35,
+        0.103125,
+        0.19791665000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 345,
+      "image_id": "bf646c5c90dea12c",
+      "category": "Bicycle",
+      "bbox": [
+        0.59375,
+        0.25,
+        0.08750000000000002,
+        0.24166666999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 346,
+      "image_id": "bf646c5c90dea12c",
+      "category": "Bicycle",
+      "bbox": [
+        0.7796875,
+        0.28125,
+        0.11093750000000002,
+        0.26666665
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 347,
+      "image_id": "0dd09cf15ce15412",
+      "category": "Chair",
+      "bbox": [
+        0.4171875,
+        0.22083333,
+        0.534375,
+        0.70624997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 348,
+      "image_id": "b499182ee39701e0",
+      "category": "Chair",
+      "bbox": [
+        0.70310193,
+        0.34216335,
+        0.29689807,
+        0.56512145
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 349,
+      "image_id": "48c09918a72118a1",
+      "category": "Chair",
+      "bbox": [
+        0.13569322,
+        0.10619469,
+        0.7315634200000001,
+        0.89380531
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 350,
+      "image_id": "c6dac581c7146f23",
+      "category": "Chair",
+      "bbox": [
+        0.081419624,
+        0.1799687,
+        0.676409206,
+        0.30985914000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 351,
+      "image_id": "c6dac581c7146f23",
+      "category": "Chair",
+      "bbox": [
+        0.23590814,
+        0.5633803,
+        0.5866388200000001,
+        0.43661970000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 352,
+      "image_id": "bb6f263c768b4459",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.32522124,
+        0.07079646,
+        0.6703540100000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 353,
+      "image_id": "bb6f263c768b4459",
+      "category": "Chair",
+      "bbox": [
+        0.26696166,
+        0.38274336,
+        0.30678464000000005,
+        0.61283189
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 354,
+      "image_id": "bb6f263c768b4459",
+      "category": "Chair",
+      "bbox": [
+        0.82743365,
+        0.6106195,
+        0.17109145000000003,
+        0.38495575000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 355,
+      "image_id": "a9af34c14be1a956",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.3402367,
+        1.0,
+        0.6597633
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 356,
+      "image_id": "5ba4992a5dec8a7a",
+      "category": "Chair",
+      "bbox": [
+        0.11732852,
+        0.45306858,
+        0.48014438,
+        0.54693142
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 357,
+      "image_id": "72339fee52338acb",
+      "category": "Chair",
+      "bbox": [
+        0.053125,
+        0.38958332,
+        0.47343750000000007,
+        0.6104166799999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 358,
+      "image_id": "72339fee52338acb",
+      "category": "Chair",
+      "bbox": [
+        0.4265625,
+        0.29375,
+        0.35156249999999994,
+        0.48333334
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 359,
+      "image_id": "72339fee52338acb",
+      "category": "Chair",
+      "bbox": [
+        0.625,
+        0.275,
+        0.28593749999999996,
+        0.36458335
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 360,
+      "image_id": "aaa12411c2d6378d",
+      "category": "Chair",
+      "bbox": [
+        0.3875,
+        0.7287736,
+        0.30624999999999997,
+        0.2712264
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 361,
+      "image_id": "64685fb20bec41db",
+      "category": "Chair",
+      "bbox": [
+        0.165625,
+        0.37291667,
+        0.23750000000000002,
+        0.40833333
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 362,
+      "image_id": "23c9df7f5d2945cd",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.0,
+        0.9985316,
+        0.8226164
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 363,
+      "image_id": "23c9df7f5d2945cd",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.037694015,
+        0.07488987,
+        0.24611972499999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 364,
+      "image_id": "23c9df7f5d2945cd",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.27272728,
+        0.34654918,
+        0.5188470199999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 365,
+      "image_id": "23c9df7f5d2945cd",
+      "category": "Chair",
+      "bbox": [
+        0.0,
+        0.50554323,
+        0.62114537,
+        0.49002217000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 366,
+      "image_id": "d0e26d6efd457fc8",
+      "category": "Chair",
+      "bbox": [
+        0.33640552,
+        0.462845,
+        0.21658988,
+        0.17197449999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 367,
+      "image_id": "f6cd17f9dca91cf9",
+      "category": "Helmet",
+      "bbox": [
+        0.0455408,
+        0.0,
+        0.4857685,
+        0.58419245
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 368,
+      "image_id": "f6cd17f9dca91cf9",
+      "category": "Helmet",
+      "bbox": [
+        0.60151803,
+        0.04467354,
+        0.33586337,
+        0.45189004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 369,
+      "image_id": "c6324f32dbc3a847",
+      "category": "Helmet",
+      "bbox": [
+        0.79970545,
+        0.061946902,
+        0.033873319999999985,
+        0.035398234
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 370,
+      "image_id": "e96e29141cab0bc6",
+      "category": "Helmet",
+      "bbox": [
+        0.29941002,
+        0.20353982,
+        0.05604720000000002,
+        0.1061947
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 371,
+      "image_id": "e96e29141cab0bc6",
+      "category": "Helmet",
+      "bbox": [
+        0.6858407,
+        0.21681416,
+        0.048672600000000066,
+        0.11504423999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 372,
+      "image_id": "b2fb0ff2373a5907",
+      "category": "Helmet",
+      "bbox": [
+        0.095870204,
+        0.17920354,
+        0.11061947600000001,
+        0.20353981999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 373,
+      "image_id": "b2fb0ff2373a5907",
+      "category": "Helmet",
+      "bbox": [
+        0.64749265,
+        0.15486726,
+        0.09587018999999997,
+        0.18584069999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 374,
+      "image_id": "38bc321724081a2c",
+      "category": "Helmet",
+      "bbox": [
+        0.019174041,
+        0.29646018,
+        0.980825959,
+        0.47787611999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 375,
+      "image_id": "6c851111e7e57b35",
+      "category": "Helmet",
+      "bbox": [
+        0.09375,
+        0.00625,
+        0.865625,
+        0.99166664
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 376,
+      "image_id": "8cfb0b9b024ac03d",
+      "category": "Helmet",
+      "bbox": [
+        0.2920354,
+        0.14306785,
+        0.2920354,
+        0.21976401
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 377,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.0,
+        0.5833333,
+        0.1375,
+        0.2979166999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 378,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.0015625,
+        0.3,
+        0.19843750000000002,
+        0.3333333
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 379,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.0890625,
+        0.6,
+        0.221875,
+        0.3458333
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 380,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.1296875,
+        0.91041666,
+        0.1875,
+        0.08749998000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 381,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.15,
+        0.004166667,
+        0.2015625,
+        0.304166673
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 382,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.2015625,
+        0.30625,
+        0.1890625,
+        0.30833330000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 383,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.3046875,
+        0.59166664,
+        0.1875,
+        0.33333336
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 384,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.30625,
+        0.89375,
+        0.21718749999999998,
+        0.10416663999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 385,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.3625,
+        0.0,
+        0.1921875,
+        0.33333334
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 386,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.3984375,
+        0.33125,
+        0.19218749999999996,
+        0.29583336
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 387,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.503125,
+        0.62708336,
+        0.16874999999999996,
+        0.35416664
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 388,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.5203125,
+        0.925,
+        0.16718750000000004,
+        0.07291663999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 389,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.55,
+        0.033333335,
+        0.2046874999999999,
+        0.322916665
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 390,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.5875,
+        0.32708332,
+        0.19374999999999998,
+        0.33958337999999993
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 391,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.6890625,
+        0.6,
+        0.20156249999999998,
+        0.33333334000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 392,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.7046875,
+        0.9,
+        0.18125000000000002,
+        0.09791664
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 393,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.740625,
+        0.016666668,
+        0.20468750000000002,
+        0.322916672
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 394,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.7828125,
+        0.31666666,
+        0.19062499999999993,
+        0.32291669
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 395,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.8828125,
+        0.8833333,
+        0.11562499999999998,
+        0.11458334000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 396,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.8859375,
+        0.60625,
+        0.11249999999999993,
+        0.30833330000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 397,
+      "image_id": "1246b4eba1a28921",
+      "category": "Helmet",
+      "bbox": [
+        0.9265625,
+        0.052083332,
+        0.07187500000000002,
+        0.30416666800000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 398,
+      "image_id": "67c9dd8871b245ae",
+      "category": "Helmet",
+      "bbox": [
+        0.13274336,
+        0.3141593,
+        0.057522130000000005,
+        0.07964600000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 399,
+      "image_id": "67c9dd8871b245ae",
+      "category": "Helmet",
+      "bbox": [
+        0.4439528,
+        0.3318584,
+        0.06932149999999998,
+        0.10398230000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 400,
+      "image_id": "67c9dd8871b245ae",
+      "category": "Helmet",
+      "bbox": [
+        0.60471976,
+        0.31637168,
+        0.06047200999999991,
+        0.0840708
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 401,
+      "image_id": "67c9dd8871b245ae",
+      "category": "Helmet",
+      "bbox": [
+        0.61946905,
+        0.27876106,
+        0.056047200000000075,
+        0.08849558000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 402,
+      "image_id": "67c9dd8871b245ae",
+      "category": "Helmet",
+      "bbox": [
+        0.859882,
+        0.29646018,
+        0.06342183999999995,
+        0.10398229999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 403,
+      "image_id": "36a41c5d75e49e72",
+      "category": "Helmet",
+      "bbox": [
+        0.0,
+        0.123893805,
+        0.15463917,
+        0.238938055
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 404,
+      "image_id": "36a41c5d75e49e72",
+      "category": "Helmet",
+      "bbox": [
+        0.41678938,
+        0.17256637,
+        0.19734901999999999,
+        0.31194690999999997
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 405,
+      "image_id": "36a41c5d75e49e72",
+      "category": "Helmet",
+      "bbox": [
+        0.79970545,
+        0.35176992,
+        0.14580264999999992,
+        0.28761058
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 406,
+      "image_id": "56136a5dd78b5454",
+      "category": "Helmet",
+      "bbox": [
+        0.41802067,
+        0.14348786,
+        0.11521416000000007,
+        0.13686534000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 407,
+      "image_id": "b0a6a432b6d408bb",
+      "category": "Helmet",
+      "bbox": [
+        0.44247788,
+        0.41150442,
+        0.13569322000000006,
+        0.26548674000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 408,
+      "image_id": "b0a6a432b6d408bb",
+      "category": "Helmet",
+      "bbox": [
+        0.4941003,
+        0.2300885,
+        0.13421829999999996,
+        0.23230088000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 409,
+      "image_id": "dc4348210bdbf90c",
+      "category": "Sunglasses",
+      "bbox": [
+        0.10075567,
+        0.3463035,
+        0.6599496300000001,
+        0.2490272
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 410,
+      "image_id": "f021fd21d0d65f5f",
+      "category": "Sunglasses",
+      "bbox": [
+        0.6131261,
+        0.26037735,
+        0.21070809999999995,
+        0.09056605000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 411,
+      "image_id": "c7b6123926e52925",
+      "category": "Sunglasses",
+      "bbox": [
+        0.4578125,
+        0.12708333,
+        0.16250000000000003,
+        0.07083334
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 412,
+      "image_id": "9cb21f17051b1174",
+      "category": "Microphone",
+      "bbox": [
+        0.3882353,
+        0.44567627,
+        0.017647059999999992,
+        0.06651883000000003
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 413,
+      "image_id": "95ecc53ab49fea3c",
+      "category": "Microphone",
+      "bbox": [
+        0.49262536,
+        0.67699116,
+        0.08702063999999998,
+        0.31858409
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 414,
+      "image_id": "8d7554ec41843eff",
+      "category": "Microphone",
+      "bbox": [
+        0.5679389,
+        0.38675213,
+        0.050381699999999974,
+        0.08333333999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 415,
+      "image_id": "3f67ddce3448e74c",
+      "category": "Microphone",
+      "bbox": [
+        0.65749234,
+        0.20042644,
+        0.13455658999999998,
+        0.15138591999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 416,
+      "image_id": "124d86a6d3953a13",
+      "category": "Microphone",
+      "bbox": [
+        0.125,
+        0.49583334,
+        0.037500000000000006,
+        0.10208331999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 417,
+      "image_id": "124d86a6d3953a13",
+      "category": "Microphone",
+      "bbox": [
+        0.7484375,
+        0.43333334,
+        0.029687499999999978,
+        0.20416665999999994
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 418,
+      "image_id": "f23f43aee564b826",
+      "category": "Microphone",
+      "bbox": [
+        0.68360275,
+        0.35310733,
+        0.31639724999999996,
+        0.16525424000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 419,
+      "image_id": "a5d472f1030b942f",
+      "category": "Microphone",
+      "bbox": [
+        0.740625,
+        0.8354167,
+        0.10625000000000007,
+        0.1645833
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 420,
+      "image_id": "2ca370641fe7394a",
+      "category": "Microphone",
+      "bbox": [
+        0.2125,
+        0.6041667,
+        0.1625,
+        0.1645833000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 421,
+      "image_id": "aebbe4f246bcf0ee",
+      "category": "Microphone",
+      "bbox": [
+        0.1375,
+        0.5875,
+        0.17083334,
+        0.21562499999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 422,
+      "image_id": "768b822518ac6b19",
+      "category": "Microphone",
+      "bbox": [
+        0.56427604,
+        0.3325301,
+        0.039242210000000055,
+        0.07710845
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 423,
+      "image_id": "b5e14117f82aba8d",
+      "category": "Microphone",
+      "bbox": [
+        0.539823,
+        0.45575222,
+        0.35103242999999995,
+        0.5442477800000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 424,
+      "image_id": "91becd950a868fca",
+      "category": "Microphone",
+      "bbox": [
+        0.35920578,
+        0.39711192,
+        0.11191336000000002,
+        0.44584838
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 425,
+      "image_id": "4706d4cbac65389a",
+      "category": "Microphone",
+      "bbox": [
+        0.275,
+        0.0390625,
+        0.52291665,
+        0.9609375
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 426,
+      "image_id": "11aeb618075ac6d7",
+      "category": "Microphone",
+      "bbox": [
+        0.0,
+        0.42128602,
+        0.48306334,
+        0.32372508000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 427,
+      "image_id": "cf97377cb331bb4d",
+      "category": "Microphone",
+      "bbox": [
+        0.460177,
+        0.4800885,
+        0.07669615999999996,
+        0.47345135
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 428,
+      "image_id": "d7d770f170f8f333",
+      "category": "Microphone",
+      "bbox": [
+        0.79086894,
+        0.25277162,
+        0.10014726000000007,
+        0.17516630000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 429,
+      "image_id": "3567f456130c4ec2",
+      "category": "Microphone",
+      "bbox": [
+        0.36061946,
+        0.42920354,
+        0.13495575999999998,
+        0.15339236000000006
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 430,
+      "image_id": "970ca679108f27ed",
+      "category": "Microphone",
+      "bbox": [
+        0.39085546,
+        0.289823,
+        0.11946903999999997,
+        0.7079645999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 431,
+      "image_id": "fe6a2debc2901252",
+      "category": "Microphone",
+      "bbox": [
+        0.2411215,
+        0.521815,
+        0.21869159999999999,
+        0.22513090000000002
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 432,
+      "image_id": "fe6a2debc2901252",
+      "category": "Microphone",
+      "bbox": [
+        0.48971963,
+        0.8254799,
+        0.26355141,
+        0.17452009999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 433,
+      "image_id": "04d357176397fb31",
+      "category": "Microphone",
+      "bbox": [
+        0.22056833,
+        0.10361446,
+        0.22056833,
+        0.83373494
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 434,
+      "image_id": "dd0b625833738eb3",
+      "category": "Microphone",
+      "bbox": [
+        0.050946143,
+        0.6098655,
+        0.08151382700000001,
+        0.05605380000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 435,
+      "image_id": "dd0b625833738eb3",
+      "category": "Microphone",
+      "bbox": [
+        0.074235804,
+        0.51793724,
+        0.068413396,
+        0.04035873000000001
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 436,
+      "image_id": "dd0b625833738eb3",
+      "category": "Microphone",
+      "bbox": [
+        0.1804949,
+        0.3206278,
+        0.04512372999999997,
+        0.09641254999999999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 437,
+      "image_id": "dd0b625833738eb3",
+      "category": "Microphone",
+      "bbox": [
+        0.24308588,
+        0.3497758,
+        0.08005821999999999,
+        0.11883406999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 438,
+      "image_id": "8b50bca740622ce6",
+      "category": "Microphone",
+      "bbox": [
+        0.31610045,
+        0.397351,
+        0.06351551,
+        0.03532006999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 439,
+      "image_id": "bb1eb0727b1b8d8e",
+      "category": "Microphone",
+      "bbox": [
+        0.2192,
+        0.0,
+        0.044800000000000006,
+        0.061099797
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 440,
+      "image_id": "bb1eb0727b1b8d8e",
+      "category": "Microphone",
+      "bbox": [
+        0.3232,
+        0.44195518,
+        0.03839999999999999,
+        0.10386962
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 441,
+      "image_id": "fe67317504c74466",
+      "category": "Microphone",
+      "bbox": [
+        0.33923304,
+        0.3141593,
+        0.07964602000000004,
+        0.2831858
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 442,
+      "image_id": "be08b7bb9582146e",
+      "category": "Microphone",
+      "bbox": [
+        0.31588447,
+        0.49458483,
+        0.2942238300000001,
+        0.24729243
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 443,
+      "image_id": "be08b7bb9582146e",
+      "category": "Microphone",
+      "bbox": [
+        0.3267148,
+        0.5072202,
+        0.35018049999999995,
+        0.25812274999999996
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 444,
+      "image_id": "1968c9cbabd1ebbd",
+      "category": "Microphone",
+      "bbox": [
+        0.11875,
+        0.9125,
+        0.07343750000000002,
+        0.08541664000000004
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 445,
+      "image_id": "86fa28d162ee13dc",
+      "category": "Microphone",
+      "bbox": [
+        0.4890625,
+        0.14166667,
+        0.2078125,
+        0.08124999
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 446,
+      "image_id": "86fa28d162ee13dc",
+      "category": "Microphone",
+      "bbox": [
+        0.490625,
+        0.14791666,
+        0.18281250000000004,
+        0.0625
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 447,
+      "image_id": "aa635959507530eb",
+      "category": "Microphone",
+      "bbox": [
+        0.19469027,
+        0.17378497,
+        0.12389381,
+        0.089838
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 448,
+      "image_id": "d3477da8d26d5171",
+      "category": "Microphone",
+      "bbox": [
+        0.0,
+        0.3227017,
+        0.42708334,
+        0.09005626
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 449,
+      "image_id": "da7113473d488888",
+      "category": "Microphone",
+      "bbox": [
+        0.47935104,
+        0.19247788,
+        0.039823,
+        0.20353981999999998
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 450,
+      "image_id": "56136a5dd78b5454",
+      "category": "Bicycle",
+      "bbox": [
+        0.32496306,
+        0.6666667,
+        0.45347124,
+        0.33333330000000005
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 451,
+      "image_id": "c6324f32dbc3a847",
+      "category": "Bicycle",
+      "bbox": [
+        0.7849779,
+        0.18584071,
+        0.06038290000000002,
+        0.18362831
+      ],
+      "bbox_format": "xywh_normalized"
+    },
+    {
+      "id": 452,
+      "image_id": "bb1eb0727b1b8d8e",
+      "category": "Guitar",
+      "bbox": [
+        0.4672,
+        0.401222,
+        0.5328,
+        0.4215886
+      ],
+      "bbox_format": "xywh_normalized"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+INF6804 H2026 - TP2 Dataset
+Fixed-Class vs Zero-Shot Object Detection
+================================================================================
+
+DATASET
+- 246 images
+- 453 annotations
+
+CLASSES
+SEEN (in COCO):    0-Bicycle, 1-Dog, 2-Pizza, 3-Bus, 4-Chair
+UNSEEN (not COCO): 5-Guitar, 6-Microphone, 7-Sunglasses, 8-Helmet, 9-Drum
+
+FORMAT
+Bounding boxes: [x, y, width, height] - normalized [0,1]
